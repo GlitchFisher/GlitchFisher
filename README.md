@@ -10,53 +10,53 @@
 
 <!-- Сurrent information -->
 <div align="center">
-    <img src="https://img.shields.io/github/stars/KLimPALE?style=flat&logo=github" alt="Stars"/> &nbsp;
+    <img src="https://img.shields.io/github/stars/UmbraC2?style=flat&logo=github" alt="Stars"/> &nbsp;
     <img src="https://img.shields.io/badge/status-up-brightgreen" alt="Status"/> &nbsp;
-    <img src="https://img.shields.io/github/followers/KLimPALE?style=flat&logo=github" alt="Followers"/> &nbsp;
-    <img src="https://img.shields.io/github/last-commit/KLimPALE/KLimPALE" alt="Last commit"/> &nbsp;
-    <img src="https://komarev.com/ghpvc/?username=KLimPALE" alt="Counter"> &nbsp;
+    <img src="https://img.shields.io/github/followers/UmbraC2?style=flat&logo=github" alt="Followers"/> &nbsp;
+    <img src="https://img.shields.io/github/last-commit/UmbraC2/UmbraC2" alt="Last commit"/> &nbsp;
+    <img src="https://komarev.com/ghpvc/?username=UmbraC2" alt="Counter"> &nbsp;
     <img src="https://img.shields.io/github/forks/madushadhanushka/simple-sqlite?style=flat&color=brightgreen" alt="Forks"/>
 </div>
 
 <!-- My snake -->
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KLimPALE/KLimPALE/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KLimPALE/KLimPALE/output/github-contribution-grid-snake.svg">
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/KLimPALE/KLimPALE/output/github-contribution-grid-snake.svg" width="100%" height="auto">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UmbraC2/UmbraC2/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/UmbraC2/UmbraC2/output/github-contribution-grid-snake.svg">
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/UmbraC2/UmbraC2/output/github-contribution-grid-snake.svg" width="100%" height="auto">
 </picture>
 
 <!-- My contects -->
 <h3>📡 ℂ𝕠𝕟𝕥𝕒𝕔𝕥 𝕞𝕖:</h3>
 
-<a href="https://www.instagram.com/ghost_777_24?igsh=aHdwa2s1cTIzbmhw"><img src="https://github.com/KLimPALE/KLimPALE/assets/136115919/1227d4f3-f6d2-4f35-b596-3efc7daae353" alt="Instagram" title="Instagram" width="45px" height="45px"></a> &nbsp;
-<a href="https://vk.com/bogdan_klimov"><img src="https://github.com/KLimPALE/KLimPALE/assets/136115919/75b2c161-3d1c-4711-9eb7-e2c63ee052be" alt="VK" title="VKontakte" width="45px" height="45px"></a> &nbsp;
-<a href="https://t.me/bogdanklimov"><img src="https://github.com/KLimPALE/KLimPALE/assets/136115919/d55ff808-ede2-4ca2-aa92-41c987ce9c57" alt="Telegram" title="Telegram" width="45px" height="45px"></a> &nbsp;
-<a href="https://www.facebook.com/profile.php?id=100033935590093"><img src="https://github.com/KLimPALE/KLimPALE/assets/136115919/b4a0f683-db6f-4a34-a47d-8f4a436448f2" alt="Facebook" title="Facebook" width="45px" height="45px"></a> &nbsp;
-<a href="https://twitter.com/ghost_777_24"><img src="https://github.com/KLimPALE/KLimPALE/assets/136115919/408f9b81-2d4e-47af-b1af-14315528311f" alt="Twitter" title="Twitter" width="45px" height="45px"></a> &nbsp;
-<a href="https://www.youtube.com/channel/UCZzftYFs4DgUapV4Fl7EGuw"><img src="https://github.com/KLimPALE/KLimPALE/assets/136115919/eea437a4-58d1-43d7-addf-513da324e94c" alt="YouTube" title="YouTube" width="45px" height="45px"></a> &nbsp;
-<a href="https://habr.com/ru/users/IT_Killer/"><img src="https://github.com/KLimPALE/KLimPALE/assets/136115919/8baf3c6e-63d9-4a5b-80d4-2ab48b794fbf" alt="Habr" title="Habr" width="45px" height="45px"></a> &nbsp;
-<a href="https://ru.linkedin.com/"><img src="https://github.com/KLimPALE/KLimPALE/assets/136115919/e70e456e-e812-4d66-ac8c-1cfddd105d5e" alt="Linkedin" title="Linkedin" width="45px" height="45px"></a>
+<a href="https://www.instagram.com/ghost_777_24?igsh=aHdwa2s1cTIzbmhw"><img src="https://github.com/user-attachments/assets/b80c4964-26c8-4f28-b16a-364fa8b1c319" alt="Instagram" title="Instagram" width="45px" height="45px"></a> &nbsp;
+<a href="https://vk.com/bogdan_klimov"><img src="https://github.com/user-attachments/assets/7832712e-aee2-46b4-9c21-3764c2f384cc" alt="VK" title="VKontakte" width="45px" height="45px"></a> &nbsp;
+<a href="https://t.me/bogdanklimov"><img src="https://github.com/user-attachments/assets/f68548bb-931e-4048-98bf-251abad27880" alt="Telegram" title="Telegram" width="45px" height="45px"></a> &nbsp;
+<a href="https://www.facebook.com/profile.php?id=100033935590093"><img src="https://github.com/user-attachments/assets/ef2364f7-9e01-4101-b18f-a0e043a39ff3" alt="Facebook" title="Facebook" width="45px" height="45px"></a> &nbsp;
+<a href="https://twitter.com/ghost_777_24"><img src="https://github.com/user-attachments/assets/9a389ee8-b76d-42da-822e-5fbd29c0f617" alt="Twitter" title="Twitter" width="45px" height="45px"></a> &nbsp;
+<a href="https://www.youtube.com/channel/UCZzftYFs4DgUapV4Fl7EGuw"><img src="https://github.com/user-attachments/assets/9d8ca57d-107c-47ae-8d76-fe2b4e565991" alt="YouTube" title="YouTube" width="45px" height="45px"></a> &nbsp;
+<a href="https://habr.com/ru/users/IT_Killer/"><img src="https://github.com/user-attachments/assets/26d8a9bf-bf4e-4ec2-8682-8b3e009bbd86" alt="Habr" title="Habr" width="45px" height="45px"></a> &nbsp;
+<a href="https://ru.linkedin.com/"><img src="https://github.com/user-attachments/assets/3ecd5dcb-edfd-4522-81fb-d38b71b6dbef" alt="Linkedin" title="Linkedin" width="45px" height="45px"></a>
 
 <!-- My GitLab profile -->
 <h3>🦊 𝕄𝕪 𝔾𝕚𝕥𝕃𝕒𝕓 𝕡𝕣𝕠𝕗𝕚𝕝𝕖:</h3>
 
-<a href="https://gitlab.com/KLimPALE"><img src="https://github.com/user-attachments/assets/e11fc11f-a649-4153-bf37-f70adb0f2e85" alt="GitLab profile" title="GitLab profile" width="45px" height="45px"></a>
+<a href="https://gitlab.com/UmbraC2"><img src="https://github.com/user-attachments/assets/d0c6e3af-6999-4ba7-bc17-c84f8245f50c" alt="GitLab profile" title="GitLab profile" width="45px" height="45px"></a>
 
 <!-- My ODS profile -->
 <h3>🧠 𝕄𝕪 𝕆𝔻𝕊 𝕡𝕣𝕠𝕗𝕚𝕝𝕖:</h3>
 
-<a href="https://ods.ai/users/a3c65698274b5"><img src="https://github.com/user-attachments/assets/2790d448-8753-48da-9d07-966fca29d766" alt="ODS profile" title="ODS profile" width="45px" height="45px"></a>
+<a href="https://ods.ai/users/a3c65698274b5"><img src="https://github.com/user-attachments/assets/697a15e9-e6bf-44b6-9b70-973bd01b5948" alt="ODS profile" title="ODS profile" width="45px" height="45px"></a>
 
 <!-- My Kaggle profile -->
 <h3>🎖️ 𝕄𝕪 𝕂𝕒𝕘𝕘𝕝𝕖 𝕡𝕣𝕠𝕗𝕚𝕝𝕖:</h3>
 
-<a href="https://www.kaggle.com/bogdanklimov"><img src="https://github.com/user-attachments/assets/62a66b34-95c0-412e-bfb0-e19696a0a12a" alt="Kaggle profile" title="Kaggle profile" width="45px" height="45px"></a>
+<a href="https://www.kaggle.com/bogdanklimov"><img src="https://github.com/user-attachments/assets/69de4615-2a2f-4d82-aa83-96eaaf817585" alt="Kaggle profile" title="Kaggle profile" width="45px" height="45px"></a>
 
 <!-- My achievements -->
 <h3>🏆 𝔾𝕚𝕥ℍ𝕦𝕓 𝕡𝕣𝕠𝕗𝕚𝕝𝕖 𝕥𝕣𝕠𝕡𝕙𝕪:</h3>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KLimPALE&theme=tokyonight&column=-1&no-frame=true" alt="Achievements">
+  <img src="https://github-profile-trophy.vercel.app/?username=UmbraC2&theme=tokyonight&column=-1&no-frame=true" alt="Achievements">
 </p>
 
 <!-- My goals and interests -->
@@ -69,25 +69,25 @@
 
 <h4>😎 𝔸𝕝𝕣𝕖𝕒𝕕𝕪 𝕦𝕤𝕖𝕕 𝕗𝕠𝕣 𝕨𝕠𝕣𝕜:</h4>
 
-<a href=""><img src="https://github.com/user-attachments/assets/d5d0b994-e1b2-4f07-9272-1d9095021f88" alt="Python" title="Python" width="45px" height="45px"></a> &nbsp;
+<a href=""><img src="https://github.com/user-attachments/assets/789f1ae5-de73-45d3-8e61-1a187c928d64" alt="Python" title="Python" width="45px" height="45px"></a> &nbsp;
 <a href=""><img src="https://github.com/user-attachments/assets/0685f5df-55c5-4c06-b144-5f08da4ba36d" alt="C" title="C" width="45px" height="45px"></a> &nbsp;
 <a href=""><img src="https://github.com/user-attachments/assets/0da8f325-a50e-4126-aca8-0cf86a7ddc60" alt="C++" title="C++" width="45px" height="45px"></a> &nbsp;
 <a href=""><img src="https://github.com/user-attachments/assets/0e7f8cdc-2442-4174-9eb3-4f9aac580815" alt="HTML" title="HTML" width="45px" height="45px"></a> &nbsp;
 <a href=""><img src="https://github.com/user-attachments/assets/30ac336f-a7d8-48b9-adaa-615630cb5884" alt="CSS" title="CSS" width="45px" height="45px"></a> &nbsp;
 <a href=""><img src="https://github.com/user-attachments/assets/d3172fa0-feb3-4474-9d8b-13c460f0561f" alt="JavaScript" title="JavaScript" width="45px" height="45px"></a> &nbsp;
 <a href=""><img src="https://github.com/user-attachments/assets/4663a62a-ba2e-44d1-a71b-6b331f458542" alt="TypeScript" title="TypeScript" width="45px" height="45px"></a> &nbsp;
-<a href=""><img src="https://github.com/KLimPALE/KLimPALE/assets/136115919/c69c9f18-b387-4905-85b4-a2bf069a7480" alt="Kotlin" title="Kotlin" width="45px" height="45px"></a> <br>
-<a href=""><img src="https://github.com/KLimPALE/KLimPALE/assets/136115919/56caf6dd-b1cf-4bad-a7b2-eda5d0d65194" alt="1C" title="1C" width="45px" height="45px"></a> &nbsp;
-<a href=""><img src="https://github.com/KLimPALE/KLimPALE/assets/136115919/b8defee1-c8ce-4b80-92cf-5c3594f5eda2" alt="SystemVerelog" title="SystemVerelog" width="45px" height="45px"></a> &nbsp;
+<a href=""><img src="https://github.com/UmbraC2/UmbraC2/assets/136115919/c69c9f18-b387-4905-85b4-a2bf069a7480" alt="Kotlin" title="Kotlin" width="45px" height="45px"></a> <br>
+<a href=""><img src="https://github.com/UmbraC2/UmbraC2/assets/136115919/56caf6dd-b1cf-4bad-a7b2-eda5d0d65194" alt="1C" title="1C" width="45px" height="45px"></a> &nbsp;
+<a href=""><img src="https://github.com/UmbraC2/UmbraC2/assets/136115919/b8defee1-c8ce-4b80-92cf-5c3594f5eda2" alt="SystemVerelog" title="SystemVerelog" width="45px" height="45px"></a> &nbsp;
 <a href=""><img src="https://github.com/user-attachments/assets/750ecaab-8345-4a04-901e-33c3652a504d" alt="PowerShell" title="PowerShell" width="45px" height="45px"></a> &nbsp;
-<a href=""><img src="https://github.com/KLimPALE/KLimPALE/assets/136115919/fbd9fc63-afad-4fe1-acce-6ada01b9e24f" alt="Bash" title="Bash" width="45px" height="45px"></a> &nbsp;
+<a href=""><img src="https://github.com/UmbraC2/UmbraC2/assets/136115919/fbd9fc63-afad-4fe1-acce-6ada01b9e24f" alt="Bash" title="Bash" width="45px" height="45px"></a> &nbsp;
 <a href=""><img src="https://github.com/user-attachments/assets/60bf579f-2f86-4d36-8578-d71c16151f8d" alt="MySQL" title="MySQL" width="45px" height="45px"></a> &nbsp;
 <a href=""><img src="https://github.com/user-attachments/assets/c9a7e105-6ad0-4fbe-a914-8c744ae5e762" alt="Oracle" title="Oracle" width="45px" height="45px"></a> &nbsp;
 <a href=""><img src="https://github.com/user-attachments/assets/08b98163-f4c5-446b-af75-0472140847c7" alt="MongoDB" title="MongoDB" width="45px" height="45px"></a> &nbsp;
 <a href=""><img src="https://github.com/user-attachments/assets/8db859fc-c767-4a1d-ad8c-8697f824f095" alt="MatLab" title="MatLab" width="45px" height="45px"></a> <br>
-<a href=""><img src="https://github.com/KLimPALE/KLimPALE/assets/136115919/fc3591ac-e3ca-441c-bf68-1d7d2aacec52" alt="LaTex" title="LaTex" width="45px" height="45px"></a> &nbsp;
-<a href=""><img src="https://github.com/KLimPALE/KLimPALE/assets/136115919/d01407ae-3619-4708-8376-8ba88ca3c4b2" alt="Wolfram" title="Wolfram" width="45px" height="45px"></a> &nbsp;
-<a href=""><img src="https://github.com/KLimPALE/KLimPALE/assets/136115919/3b69373a-4c87-48a9-85a8-94b911ae2d74" alt="Markdown" title="Markdown" width="45px" height="45px"></a> &nbsp;
+<a href=""><img src="https://github.com/UmbraC2/UmbraC2/assets/136115919/fc3591ac-e3ca-441c-bf68-1d7d2aacec52" alt="LaTex" title="LaTex" width="45px" height="45px"></a> &nbsp;
+<a href=""><img src="https://github.com/UmbraC2/UmbraC2/assets/136115919/d01407ae-3619-4708-8376-8ba88ca3c4b2" alt="Wolfram" title="Wolfram" width="45px" height="45px"></a> &nbsp;
+<a href=""><img src="https://github.com/UmbraC2/UmbraC2/assets/136115919/3b69373a-4c87-48a9-85a8-94b911ae2d74" alt="Markdown" title="Markdown" width="45px" height="45px"></a> &nbsp;
 <a href=""><img src="https://github.com/user-attachments/assets/76482b4a-addf-463f-a294-a17eac348318" alt="Java" title="Java" width="45px" height="45px"></a> &nbsp;
 <a href=""><img src="https://github.com/user-attachments/assets/f7722ba4-209b-469b-9b95-6513d94e986f" alt="PHP" title="PHP" width="45px" height="45px"></a> &nbsp;
 <a href=""><img src="https://github.com/user-attachments/assets/e991160f-9e70-46eb-bbac-2060ff124560" alt="Swift" title="Swift" width="45px" height="45px"></a> &nbsp;
@@ -195,49 +195,49 @@
 
 <h3>🛰️ 𝕄𝕪 𝕨𝕖𝕓 𝕓𝕣𝕠𝕨𝕤𝕖𝕣𝕤:</h3>
 
-<a href="https://www.google.com/chrome/"><img src="https://github.com/KLimPALE/KLimPALE/assets/136115919/44f53ce6-7252-4ad1-91e2-fa3910a3d0e2" alt="Google Chrome" title="Google Chrome" width="45px" height="45px"></a> &nbsp;
-<a href="https://www.chromium.org/getting-involved/download-chromium/"><img src="https://github.com/user-attachments/assets/02070861-4d79-4c5c-8d49-2dd30faf438c" alt="Chromium" title="Chromium" width="45px" height="45px"></a> &nbsp;
-<a href="https://www.mozilla.org/en-US/firefox/"><img src="https://github.com/KLimPALE/KLimPALE/assets/136115919/3be1e47a-1923-4f00-8f9f-664bddbbdb16" alt="Mozilla Firefox" title="Mozilla Firefox" width="45px" height="45px"></a> &nbsp;
-<a href="https://www.microsoft.com/en-us/edge"><img src="https://github.com/KLimPALE/KLimPALE/assets/136115919/f49ba9c0-8af6-4d7e-bb31-27a05eac7adc" alt="Microsoft Edge" title="Microsoft Edge" width="45px" height="45px"></a> &nbsp;
-<a href="https://www.opera.com/ru"><img src="https://github.com/KLimPALE/KLimPALE/assets/136115919/44efd2bf-504e-4e40-928f-847c9b52a20b" alt="Opera" title="Opera" width="45px" height="45px"></a> &nbsp;
-<a href="https://ya.ru/"><img src="https://github.com/KLimPALE/KLimPALE/assets/136115919/ca3be70d-0614-4c39-8fb8-95ba14e70e97" alt="Yandex" title="Yandex" width="45px" height="45px"></a> &nbsp;
-<a href="https://www.apple.com/safari/"><img src="https://github.com/KLimPALE/KLimPALE/assets/136115919/1d4bdeb8-f888-478b-9319-a6948225d461" alt="Safari" title="Safari" width="45px" height="45px"></a> &nbsp;
-<a href="https://www.bing.com/"><img src="https://github.com/KLimPALE/KLimPALE/assets/136115919/726effc5-dabb-49ff-b027-06c6f9a97daa" alt="Bing" title="Bing" width="45px" height="45px"></a>
+<a href="https://www.google.com/chrome"><img src="https://github.com/user-attachments/assets/c45dc580-a67c-4e6d-8f66-b679ef6d3664" alt="Google Chrome" title="Google Chrome" width="45px" height="45px"></a> &nbsp;
+<a href="https://www.chromium.org/getting-involved/download-chromium"><img src="https://github.com/user-attachments/assets/8eede50e-2a09-48d3-b2b6-8ea5dcbb85bc" alt="Chromium" title="Chromium" width="45px" height="45px"></a> &nbsp;
+<a href="https://www.mozilla.org/en-US/firefox"><img src="https://github.com/user-attachments/assets/c3593425-dc31-4cf6-ad1f-e147f9e79c56" alt="Mozilla Firefox" title="Mozilla Firefox" width="45px" height="45px"></a> &nbsp;
+<a href="https://www.microsoft.com/en-us/edge"><img src="https://github.com/user-attachments/assets/36bc6f1d-5b7e-433c-9a5a-18a5e582c3fc" alt="Microsoft Edge" title="Microsoft Edge" width="45px" height="45px"></a> &nbsp;
+<a href="https://www.opera.com/ru"><img src="https://github.com/user-attachments/assets/565aa665-afc0-4fb5-bca5-8b77ea0eaf85" alt="Opera" title="Opera" width="45px" height="45px"></a> &nbsp;
+<a href="https://ya.ru"><img src="https://github.com/user-attachments/assets/00ca1d31-03fc-4aae-abbf-7f2d7ca982e7" alt="Yandex" title="Yandex" width="45px" height="45px"></a> &nbsp;
+<a href="https://www.apple.com/safari"><img src="https://github.com/user-attachments/assets/212e66f7-e31b-4a1d-8ebb-421cc8204ca4" alt="Safari" title="Safari" width="45px" height="45px"></a> &nbsp;
+<a href="https://www.bing.com"><img src="https://github.com/user-attachments/assets/55f8c40d-3bd5-44ea-9f38-5ce189411bed" alt="Bing" title="Bing" width="45px" height="45px"></a>
 
 <h3>🔥 𝕄𝕪 𝕊𝕥𝕒𝕥𝕤:</h3>
 
-<a><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KLimPALE&theme=dark" alt="Profile card" width="100%" height="auto"></a>
-<a><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KLimPALE&theme=dark" alt="Statistics of languages ​​in commits" width="49.7%" height="auto"></a>
-<a><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KLimPALE&theme=dark" alt="Statistics of languages ​​in repositories" width="49.7%" height="auto"></a>
-<a><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KLimPALE&theme=dark" alt="Profile statistics" width="49.7%" height="auto"></a>
-<a><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KLimPALE&theme=dark" alt="Data on commits per day" width="49.7%" height="auto"></a>
-<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KLimPALE&langs_count=20&theme=dark&hide_progress=true&hide_border=true" alt="Top Languages" width="49.7%" height="auto"></a>
+<a><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UmbraC2&theme=dark" alt="Profile card" width="100%" height="auto"></a>
+<a><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=UmbraC2&theme=dark" alt="Statistics of languages ​​in commits" width="49.7%" height="auto"></a>
+<a><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=UmbraC2&theme=dark" alt="Statistics of languages ​​in repositories" width="49.7%" height="auto"></a>
+<a><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=UmbraC2&theme=dark" alt="Profile statistics" width="49.7%" height="auto"></a>
+<a><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=UmbraC2&theme=dark" alt="Data on commits per day" width="49.7%" height="auto"></a>
+<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmbraC2&langs_count=20&theme=dark&hide_progress=true&hide_border=true" alt="Top Languages" width="49.7%" height="auto"></a>
 
 <h3>🌎 𝕄𝕪 𝕝𝕒𝕟𝕘𝕦𝕒𝕘𝕖𝕤:</h3>
 
 <h4>🦉 𝕄𝕪 𝔻𝕦𝕠𝕝𝕚𝕟𝕘𝕠 𝕡𝕣𝕠𝕗𝕚𝕝𝕖:</h4>
 
-<a href="https://www.duolingo.com/profile/BogdanKlimov11"><img src="https://github.com/KLimPALE/KLimPALE/assets/136115919/ca8cfe4a-11df-4bd1-bde5-cc16c72c3c59" alt="Duolingo link" title="Duolingo link" width="45px" height="45px"></a> <br>
+<a href="https://www.duolingo.com/profile/BogdanKlimov11"><img src="https://github.com/user-attachments/assets/83250c29-575b-4917-8c7d-351642164500" alt="Duolingo link" title="Duolingo link" width="45px" height="45px"></a> <br>
 <img src="https://duolingo-stats-card.vercel.app/api?username=BogdanKlimov11&sort=xp&theme=dark" alt="Duolingo Stats" width="49.7%" height="auto">
 
 
 <h4>🎯 𝕀 𝕒𝕞 𝕒𝕝𝕣𝕖𝕒𝕕𝕪 𝕤𝕥𝕦𝕕𝕪𝕚𝕟𝕘 𝕠𝕣 𝕙𝕒𝕧𝕖 𝕤𝕥𝕦𝕕𝕚𝕖𝕕:</h4>
 
 <ul>
-    <li><img src="https://github.com/KLimPALE/KLimPALE/assets/136115919/dcb1abad-f007-4595-ba93-6b125e67a15b" alt="Russian" width="20px" height="12px"> &nbsp; ℝ𝕦𝕤𝕤𝕚𝕒𝕟 (ℕ𝕒𝕥𝕚𝕧𝕖)</li>
-    <li><img src="https://github.com/KLimPALE/KLimPALE/assets/136115919/c3cbff4f-7966-49d6-818e-0c0d28e23e2d" alt="English" width="20px" height="12px"> &nbsp; 𝔼𝕟𝕘𝕝𝕚𝕤𝕙 (𝔸𝟚)</li>
-    <li><img src="https://github.com/KLimPALE/KLimPALE/assets/136115919/e61d2c12-1f64-4522-b64f-ee7498cbce6a" alt="German" width="20px" height="12px"> &nbsp; 𝔾𝕖𝕣𝕞𝕒𝕟 (𝔸𝟙)</li>
+    <li><img src="https://github.com/UmbraC2/UmbraC2/assets/136115919/dcb1abad-f007-4595-ba93-6b125e67a15b" alt="Russian" width="20px" height="12px"> &nbsp; ℝ𝕦𝕤𝕤𝕚𝕒𝕟 (ℕ𝕒𝕥𝕚𝕧𝕖)</li>
+    <li><img src="https://github.com/UmbraC2/UmbraC2/assets/136115919/c3cbff4f-7966-49d6-818e-0c0d28e23e2d" alt="English" width="20px" height="12px"> &nbsp; 𝔼𝕟𝕘𝕝𝕚𝕤𝕙 (𝔸𝟚)</li>
+    <li><img src="https://github.com/UmbraC2/UmbraC2/assets/136115919/e61d2c12-1f64-4522-b64f-ee7498cbce6a" alt="German" width="20px" height="12px"> &nbsp; 𝔾𝕖𝕣𝕞𝕒𝕟 (𝔸𝟙)</li>
 </ul>
 
 <h4>🎓 𝕀 𝕡𝕝𝕒𝕟 𝕥𝕠 𝕤𝕥𝕦𝕕𝕪:</h4>
 
 <ul>
-    <li><img src="https://github.com/KLimPALE/KLimPALE/assets/136115919/4f189db8-2b34-44e8-afae-2412df2ca991" alt="French" width="20px" height="12px"> &nbsp; 𝔽𝕣𝕖𝕟𝕔𝕙</li>
-    <li><img src="https://github.com/KLimPALE/KLimPALE/assets/136115919/cc07d4c6-7180-41ef-9293-ede23491ceb1" alt="Spanish" width="20px" height="12px"> &nbsp; 𝕊𝕡𝕒𝕟𝕚𝕤𝕙</li>
-    <li><img src="https://github.com/KLimPALE/KLimPALE/assets/136115919/80dd124c-e721-4e86-9b2b-87b6898adfa3" alt="Italian" width="20px" height="12px"> &nbsp; 𝕀𝕥𝕒𝕝𝕚𝕒𝕟</li>
-    <li><img src="https://github.com/KLimPALE/KLimPALE/assets/136115919/432d52f7-5921-46b8-8cf8-8c76ad4bcc30" alt="Japanese" width="20px" height="12px"> &nbsp; 𝕁𝕒𝕡𝕒𝕟𝕖𝕤𝕖</li>
-    <li><img src="https://github.com/KLimPALE/KLimPALE/assets/136115919/1bb43b9e-e42e-45f4-89e2-7c3a2a694847" alt="Chinese" width="20px" height="12px"> &nbsp; ℂ𝕙𝕚𝕟𝕖𝕤𝕖</li>
-    <li><img src="https://github.com/KLimPALE/KLimPALE/assets/136115919/6e0981cc-7b3d-4d1a-8066-af7370980ab6" alt="Korean" width="20px" height="12px"> &nbsp; 𝕂𝕠𝕣𝕖𝕒𝕟</li>
+    <li><img src="https://github.com/UmbraC2/UmbraC2/assets/136115919/4f189db8-2b34-44e8-afae-2412df2ca991" alt="French" width="20px" height="12px"> &nbsp; 𝔽𝕣𝕖𝕟𝕔𝕙</li>
+    <li><img src="https://github.com/UmbraC2/UmbraC2/assets/136115919/cc07d4c6-7180-41ef-9293-ede23491ceb1" alt="Spanish" width="20px" height="12px"> &nbsp; 𝕊𝕡𝕒𝕟𝕚𝕤𝕙</li>
+    <li><img src="https://github.com/UmbraC2/UmbraC2/assets/136115919/80dd124c-e721-4e86-9b2b-87b6898adfa3" alt="Italian" width="20px" height="12px"> &nbsp; 𝕀𝕥𝕒𝕝𝕚𝕒𝕟</li>
+    <li><img src="https://github.com/UmbraC2/UmbraC2/assets/136115919/432d52f7-5921-46b8-8cf8-8c76ad4bcc30" alt="Japanese" width="20px" height="12px"> &nbsp; 𝕁𝕒𝕡𝕒𝕟𝕖𝕤𝕖</li>
+    <li><img src="https://github.com/UmbraC2/UmbraC2/assets/136115919/1bb43b9e-e42e-45f4-89e2-7c3a2a694847" alt="Chinese" width="20px" height="12px"> &nbsp; ℂ𝕙𝕚𝕟𝕖𝕤𝕖</li>
+    <li><img src="https://github.com/UmbraC2/UmbraC2/assets/136115919/6e0981cc-7b3d-4d1a-8066-af7370980ab6" alt="Korean" width="20px" height="12px"> &nbsp; 𝕂𝕠𝕣𝕖𝕒𝕟</li>
 </ul>
 
 
@@ -245,7 +245,7 @@
 
 <h4>⚔️ 𝕄𝕪 ℂ𝕠𝕕𝕖𝕨𝕒𝕣𝕤 𝕡𝕣𝕠𝕗𝕚𝕝𝕖:</h4>
 
-<a href="https://www.codewars.com/users/PROgerych"><img src="https://github.com/KLimPALE/KLimPALE/assets/136115919/2d6c1b07-e74a-4fcd-a0e0-be221dbecaea" alt="Codewars link" title="Codewars link" width="45px" height="45px"></a> &nbsp; &nbsp; &nbsp;
+<a href="https://www.codewars.com/users/PROgerych"><img src="https://github.com/user-attachments/assets/b7665c67-8724-4784-9987-a8ed8c82cb73" alt="Codewars link" title="Codewars link" width="45px" height="45px"></a> &nbsp; &nbsp; &nbsp;
 <a href="https://www.codewars.com/users/PROgerych"><img src="https://www.codewars.com/users/PROgerych/badges/large" alt="Codewars stats"></a>
 
 <h4>📊 𝕄𝕪 𝕃𝕖𝕖𝕥ℂ𝕠𝕕𝕖 𝕡𝕣𝕠𝕗𝕚𝕝𝕖:</h4>
@@ -254,7 +254,7 @@
 
 <h4>🕙 𝕄𝕪 𝕊𝕥𝕖𝕡𝕚𝕜 𝕡𝕣𝕠𝕗𝕚𝕝𝕖:</h4>
 
-<a href="https://stepik.org/users/658101462/profile"><img src="https://github.com/user-attachments/assets/0180ba5f-4402-45e2-91c3-194d9552b44d" alt="Stepik link" title="Stepik link" width="45px" height="45px"></a>
+<a href="https://stepik.org/users/658101462/profile"><img src="https://github.com/user-attachments/assets/99205d12-8297-4f71-9207-9af3ff583f1c" alt="Stepik link" title="Stepik link" width="45px" height="45px"></a>
 
 <h4>🚀 𝕄𝕪 𝕊𝕥𝕒𝕔𝕜𝕆𝕧𝕖𝕣𝕗𝕝𝕠𝕨 𝕡𝕣𝕠𝕗𝕚𝕝𝕖:</h4>
 
@@ -262,8 +262,8 @@
 
 <h3>📁 𝕄𝕪 𝕣𝕖𝕡𝕠𝕤𝕚𝕥𝕠𝕣𝕚𝕖𝕤:</h3>
 
-<a href="https://github.com/KLimPALE/Education"><img src="https://github-readme-stats.vercel.app/api/pin/?username=KLimPALE&repo=Education&theme=dark&hide_border=true" alt="Education" width="49.7%" height="auto"></a>
-<a href="https://github.com/KLimPALE/NSU"><img src="https://github-readme-stats.vercel.app/api/pin/?username=KLimPALE&repo=NSU&theme=dark&hide_border=true" alt="NSU" width="49.7%" height="auto"></a>
+<a href="https://github.com/UmbraC2/Education"><img src="https://github-readme-stats.vercel.app/api/pin/?username=UmbraC2&repo=Education&theme=dark&hide_border=true" alt="Education" width="49.7%" height="auto"></a>
+<a href="https://github.com/UmbraC2/NSU"><img src="https://github-readme-stats.vercel.app/api/pin/?username=UmbraC2&repo=NSU&theme=dark&hide_border=true" alt="NSU" width="49.7%" height="auto"></a>
 
 <h3>🖊️ 𝔸𝕓𝕠𝕦𝕥 𝕞𝕖:</h3>
 
