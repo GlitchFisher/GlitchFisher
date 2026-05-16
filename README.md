@@ -69,29 +69,29 @@
 
 <h4>😎 𝔸𝕝𝕣𝕖𝕒𝕕𝕪 𝕦𝕤𝕖𝕕 𝕗𝕠𝕣 𝕨𝕠𝕣𝕜:</h4>
 
-<a href=""><img src="https://github.com/user-attachments/assets/789f1ae5-de73-45d3-8e61-1a187c928d64" alt="Python" title="Python" width="45px" height="45px"></a> &nbsp;
-<a href=""><img src="https://github.com/user-attachments/assets/0685f5df-55c5-4c06-b144-5f08da4ba36d" alt="C" title="C" width="45px" height="45px"></a> &nbsp;
-<a href=""><img src="https://github.com/user-attachments/assets/0da8f325-a50e-4126-aca8-0cf86a7ddc60" alt="C++" title="C++" width="45px" height="45px"></a> &nbsp;
-<a href=""><img src="https://github.com/user-attachments/assets/0e7f8cdc-2442-4174-9eb3-4f9aac580815" alt="HTML" title="HTML" width="45px" height="45px"></a> &nbsp;
-<a href=""><img src="https://github.com/user-attachments/assets/30ac336f-a7d8-48b9-adaa-615630cb5884" alt="CSS" title="CSS" width="45px" height="45px"></a> &nbsp;
-<a href=""><img src="https://github.com/user-attachments/assets/d3172fa0-feb3-4474-9d8b-13c460f0561f" alt="JavaScript" title="JavaScript" width="45px" height="45px"></a> &nbsp;
-<a href=""><img src="https://github.com/user-attachments/assets/4663a62a-ba2e-44d1-a71b-6b331f458542" alt="TypeScript" title="TypeScript" width="45px" height="45px"></a> &nbsp;
-<a href=""><img src="https://github.com/UmbraC2/UmbraC2/assets/136115919/c69c9f18-b387-4905-85b4-a2bf069a7480" alt="Kotlin" title="Kotlin" width="45px" height="45px"></a> <br>
-<a href=""><img src="https://github.com/UmbraC2/UmbraC2/assets/136115919/56caf6dd-b1cf-4bad-a7b2-eda5d0d65194" alt="1C" title="1C" width="45px" height="45px"></a> &nbsp;
-<a href=""><img src="https://github.com/UmbraC2/UmbraC2/assets/136115919/b8defee1-c8ce-4b80-92cf-5c3594f5eda2" alt="SystemVerelog" title="SystemVerelog" width="45px" height="45px"></a> &nbsp;
-<a href=""><img src="https://github.com/user-attachments/assets/750ecaab-8345-4a04-901e-33c3652a504d" alt="PowerShell" title="PowerShell" width="45px" height="45px"></a> &nbsp;
-<a href=""><img src="https://github.com/UmbraC2/UmbraC2/assets/136115919/fbd9fc63-afad-4fe1-acce-6ada01b9e24f" alt="Bash" title="Bash" width="45px" height="45px"></a> &nbsp;
-<a href=""><img src="https://github.com/user-attachments/assets/60bf579f-2f86-4d36-8578-d71c16151f8d" alt="MySQL" title="MySQL" width="45px" height="45px"></a> &nbsp;
-<a href=""><img src="https://github.com/user-attachments/assets/c9a7e105-6ad0-4fbe-a914-8c744ae5e762" alt="Oracle" title="Oracle" width="45px" height="45px"></a> &nbsp;
-<a href=""><img src="https://github.com/user-attachments/assets/08b98163-f4c5-446b-af75-0472140847c7" alt="MongoDB" title="MongoDB" width="45px" height="45px"></a> &nbsp;
-<a href=""><img src="https://github.com/user-attachments/assets/8db859fc-c767-4a1d-ad8c-8697f824f095" alt="MatLab" title="MatLab" width="45px" height="45px"></a> <br>
-<a href=""><img src="https://github.com/UmbraC2/UmbraC2/assets/136115919/fc3591ac-e3ca-441c-bf68-1d7d2aacec52" alt="LaTex" title="LaTex" width="45px" height="45px"></a> &nbsp;
-<a href=""><img src="https://github.com/UmbraC2/UmbraC2/assets/136115919/d01407ae-3619-4708-8376-8ba88ca3c4b2" alt="Wolfram" title="Wolfram" width="45px" height="45px"></a> &nbsp;
-<a href=""><img src="https://github.com/UmbraC2/UmbraC2/assets/136115919/3b69373a-4c87-48a9-85a8-94b911ae2d74" alt="Markdown" title="Markdown" width="45px" height="45px"></a> &nbsp;
-<a href=""><img src="https://github.com/user-attachments/assets/76482b4a-addf-463f-a294-a17eac348318" alt="Java" title="Java" width="45px" height="45px"></a> &nbsp;
-<a href=""><img src="https://github.com/user-attachments/assets/f7722ba4-209b-469b-9b95-6513d94e986f" alt="PHP" title="PHP" width="45px" height="45px"></a> &nbsp;
-<a href=""><img src="https://github.com/user-attachments/assets/e991160f-9e70-46eb-bbac-2060ff124560" alt="Swift" title="Swift" width="45px" height="45px"></a> &nbsp;
-<a href=""><img src="https://github.com/user-attachments/assets/7f83f216-65ee-4ac6-b4aa-995739c566b5" alt="Assembler" title="Assembler" width="45px" height="45px"></a>
+<a href=""><img src="https://github.com/user-attachments/assets/800c3c28-616f-4d09-90ac-d84ec58d42f2" alt="Python" title="Python" width="45px" height="45px"></a> &nbsp;
+<a href=""><img src="https://github.com/user-attachments/assets/e50a4436-beb8-4d97-ad75-1328413cee0b" alt="C" title="C" width="45px" height="45px"></a> &nbsp;
+<a href=""><img src="https://github.com/user-attachments/assets/0389a1e6-2c6d-4d6a-928b-9437d64eab19" alt="C++" title="C++" width="45px" height="45px"></a> &nbsp;
+<a href=""><img src="https://github.com/user-attachments/assets/7bb37000-65f7-4080-b851-aa07c3e58042" alt="HTML" title="HTML" width="45px" height="45px"></a> &nbsp;
+<a href=""><img src="https://github.com/user-attachments/assets/fa38dde1-58dd-477f-a12e-c605544885c1" alt="CSS" title="CSS" width="45px" height="45px"></a> &nbsp;
+<a href=""><img src="https://github.com/user-attachments/assets/31b8c4fa-5d4d-4da8-b2cb-80f94e94b44d" alt="JavaScript" title="JavaScript" width="45px" height="45px"></a> &nbsp;
+<a href=""><img src="https://github.com/user-attachments/assets/2df2c4b3-5278-4941-a8a0-f7d06eb1b7b3" alt="TypeScript" title="TypeScript" width="45px" height="45px"></a> &nbsp;
+<a href=""><img src="https://github.com/user-attachments/assets/c133324f-5d9f-49bc-8d94-eb5cc280bfd0" alt="Kotlin" title="Kotlin" width="45px" height="45px"></a> <br>
+<a href=""><img src="https://github.com/user-attachments/assets/8503d559-def5-4074-a4a9-61553a4e2d21" alt="1C" title="1C" width="45px" height="45px"></a> &nbsp;
+<a href=""><img src="https://github.com/user-attachments/assets/4f683245-1b8c-408f-98de-a055e8b60f44" alt="SystemVerelog" title="SystemVerelog" width="45px" height="45px"></a> &nbsp;
+<a href=""><img src="https://github.com/user-attachments/assets/14f3df5e-fcca-4566-9cd4-794967e8717b" alt="PowerShell" title="PowerShell" width="45px" height="45px"></a> &nbsp;
+<a href=""><img src="https://github.com/user-attachments/assets/16c650d2-29fc-4c43-b811-ab51b18b2e43" alt="Bash" title="Bash" width="45px" height="45px"></a> &nbsp;
+<a href=""><img src="https://github.com/user-attachments/assets/0e512f9a-edd4-4301-961f-12f87a4e6675" alt="MySQL" title="MySQL" width="45px" height="45px"></a> &nbsp;
+<a href=""><img src="https://github.com/user-attachments/assets/d7648a1b-1c66-4a54-82a9-c0507541efda" alt="Oracle" title="Oracle" width="45px" height="45px"></a> &nbsp;
+<a href=""><img src="https://github.com/user-attachments/assets/b6b1ceef-edc0-4fcf-8500-dacdfec59108" alt="MongoDB" title="MongoDB" width="45px" height="45px"></a> &nbsp;
+<a href=""><img src="https://github.com/user-attachments/assets/015aabed-b8e5-4139-8a03-742c1840db60" alt="MatLab" title="MatLab" width="45px" height="45px"></a> <br>
+<a href=""><img src="https://github.com/user-attachments/assets/c810a0b1-1b0d-4e68-b54f-654aca298c1c" alt="LaTeX" title="LaTeX" width="45px" height="45px"></a> &nbsp;
+<a href=""><img src="https://github.com/user-attachments/assets/caf54767-6295-43de-8caf-161f61ad8571" alt="Wolfram" title="Wolfram" width="45px" height="45px"></a> &nbsp;
+<a href=""><img src="https://github.com/user-attachments/assets/818628a3-e16b-441e-a133-ae92198cde17" alt="Markdown" title="Markdown" width="45px" height="45px"></a> &nbsp;
+<a href=""><img src="https://github.com/user-attachments/assets/20fea1a0-061e-4b7c-bc54-4f238ca993dc" alt="Java" title="Java" width="45px" height="45px"></a> &nbsp;
+<a href=""><img src="https://github.com/user-attachments/assets/0ec23a1f-bc5c-4985-8ef4-ce09b45cfe49" alt="PHP" title="PHP" width="45px" height="45px"></a> &nbsp;
+<a href=""><img src="https://github.com/user-attachments/assets/58147d8c-702c-472c-9113-19977e16dc2e" alt="Swift" title="Swift" width="45px" height="45px"></a> &nbsp;
+<a href=""><img src="https://github.com/user-attachments/assets/3e79c180-8d13-407e-9b22-b989a3dd0d79" alt="Assembler" title="Assembler" width="45px" height="45px"></a>
 
 <h4>🧐 𝕀 𝕨𝕒𝕟𝕥 𝕥𝕠 𝕝𝕖𝕒𝕣𝕟:</h4>
 
