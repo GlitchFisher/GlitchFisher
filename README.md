@@ -19,11 +19,13 @@
 </div>
 
 <!-- My snake -->
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GlitchFisher/GlitchFisher/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GlitchFisher/GlitchFisher/output/github-contribution-grid-snake.svg">
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/GlitchFisher/GlitchFisher/output/github-contribution-grid-snake.svg" width="100%" height="auto">
-</picture>
+<div align="center">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GlitchFisher/GlitchFisher/output/github-snake-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GlitchFisher/GlitchFisher/output/github-snake.svg">
+        <img alt="Snake animation" src="https://raw.githubusercontent.com/GlitchFisher/GlitchFisher/output/github-snake.svg" width="100%" height="auto">
+    </picture>
+</div>
 
 <!-- My activity -->
 <h3>🧩 𝕄𝕪 𝕒𝕔𝕥𝕚𝕧𝕚𝕥𝕪:</h3>
