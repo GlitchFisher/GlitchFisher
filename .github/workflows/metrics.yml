@@ -1,9 +1,9 @@
 name: Metrics
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "0 0 * * *"
-  workflow_dispatch:
 
 jobs:
   metrics:
@@ -13,26 +13,17 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate metrics
+      - name: Metrics
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           filename: profile-3d.svg
-          output_action: none
-          base_indepth: yes
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
-
-      - name: Copy to dist folder
-        run: |
-          mkdir -p dist
-          cp profile-3d.svg dist/
+          base: header, activity, repositories
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
+          publish_dir: ./
           publish_branch: output
           keep_files: false
-          commit_message: "Update metrics animation"
