@@ -11,16 +11,20 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
 
       - name: Generate Breakout animation
         uses: cherninlab/breek@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          output: dist/breek.svg
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          svg_out_path: dist/breek.svg
 
-      - uses: peaceiris/actions-gh-pages@v4
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
           publish_branch: output
+          commit_message: "Update breek animation"
