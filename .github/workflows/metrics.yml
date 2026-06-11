@@ -23,11 +23,16 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
-      - name: Deploy only profile-3d.svg to output branch
+      - name: Copy to dist folder
+        run: |
+          mkdir -p dist
+          cp profile-3d.svg dist/
+
+      - name: Deploy
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./
+          publish_dir: ./dist
           publish_branch: output
           keep_files: false
           commit_message: "Update metrics animation"
