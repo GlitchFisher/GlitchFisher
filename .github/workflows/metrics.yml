@@ -18,7 +18,14 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           filename: profile-3d.svg
-          output_action: commit
           base_indepth: yes
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./
+          publish_branch: output
+          commit_message: "Update metrics animation"
