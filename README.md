@@ -10,19 +10,19 @@
 
 <!-- Сurrent information -->
 <div align="center">
-    <img src="https://img.shields.io/github/stars/UmbraC2?style=flat&logo=github" alt="Stars"/> &nbsp;
+    <img src="https://img.shields.io/github/stars/GlitchFisher?style=flat&logo=github" alt="Stars"/> &nbsp;
     <img src="https://img.shields.io/badge/status-up-brightgreen" alt="Status"/> &nbsp;
-    <img src="https://img.shields.io/github/followers/UmbraC2?style=flat&logo=github" alt="Followers"/> &nbsp;
-    <img src="https://img.shields.io/github/last-commit/UmbraC2/UmbraC2" alt="Last commit"/> &nbsp;
-    <img src="https://komarev.com/ghpvc/?username=UmbraC2" alt="Counter"> &nbsp;
+    <img src="https://img.shields.io/github/followers/GlitchFisher?style=flat&logo=github" alt="Followers"/> &nbsp;
+    <img src="https://img.shields.io/github/last-commit/GlitchFisher/GlitchFisher" alt="Last commit"/> &nbsp;
+    <img src="https://komarev.com/ghpvc/?username=GlitchFisher" alt="Counter"> &nbsp;
     <img src="https://img.shields.io/github/forks/madushadhanushka/simple-sqlite?style=flat&color=brightgreen" alt="Forks"/>
 </div>
 
 <!-- My snake -->
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UmbraC2/UmbraC2/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/UmbraC2/UmbraC2/output/github-contribution-grid-snake.svg">
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/UmbraC2/UmbraC2/output/github-contribution-grid-snake.svg" width="100%" height="auto">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GlitchFisher/GlitchFisher/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GlitchFisher/GlitchFisher/output/github-contribution-grid-snake.svg">
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/GlitchFisher/GlitchFisher/output/github-contribution-grid-snake.svg" width="100%" height="auto">
 </picture>
 
 <!-- My contects -->
@@ -40,7 +40,7 @@
 <!-- My GitLab profile -->
 <h3>🦊 𝕄𝕪 𝔾𝕚𝕥𝕃𝕒𝕓 𝕡𝕣𝕠𝕗𝕚𝕝𝕖:</h3>
 
-<a href="https://gitlab.com/UmbraC2"><img src="https://github.com/user-attachments/assets/d0c6e3af-6999-4ba7-bc17-c84f8245f50c" alt="GitLab profile" title="GitLab profile" width="45px" height="45px"></a>
+<a href="https://gitlab.com/GlitchFisher"><img src="https://github.com/user-attachments/assets/d0c6e3af-6999-4ba7-bc17-c84f8245f50c" alt="GitLab profile" title="GitLab profile" width="45px" height="45px"></a>
 
 <!-- My ODS profile -->
 <h3>🧠 𝕄𝕪 𝕆𝔻𝕊 𝕡𝕣𝕠𝕗𝕚𝕝𝕖:</h3>
@@ -56,7 +56,7 @@
 <h3>🏆 𝔾𝕚𝕥ℍ𝕦𝕓 𝕡𝕣𝕠𝕗𝕚𝕝𝕖 𝕥𝕣𝕠𝕡𝕙𝕪:</h3>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=UmbraC2&theme=tokyonight&column=-1&no-frame=true" alt="Achievements">
+  <img src="https://github-profile-trophy.vercel.app/?username=GlitchFisher&theme=tokyonight&column=-1&no-frame=true" alt="Achievements">
 </p>
 
 <!-- My goals and interests -->
@@ -206,12 +206,12 @@
 
 <h3>🔥 𝕄𝕪 𝕊𝕥𝕒𝕥𝕤:</h3>
 
-<a><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UmbraC2&theme=dark" alt="Profile card" width="100%" height="auto"></a>
-<a><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=UmbraC2&theme=dark" alt="Statistics of languages ​​in commits" width="49.7%" height="auto"></a>
-<a><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=UmbraC2&theme=dark" alt="Statistics of languages ​​in repositories" width="49.7%" height="auto"></a>
-<a><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=UmbraC2&theme=dark" alt="Profile statistics" width="49.7%" height="auto"></a>
-<a><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=UmbraC2&theme=dark" alt="Data on commits per day" width="49.7%" height="auto"></a>
-<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmbraC2&langs_count=20&theme=dark&hide_progress=true&hide_border=true" alt="Top Languages" width="49.7%" height="auto"></a>
+<a><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GlitchFisher&theme=dark" alt="Profile card" width="100%" height="auto"></a>
+<a><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GlitchFisher&theme=dark" alt="Statistics of languages ​​in commits" width="49.7%" height="auto"></a>
+<a><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GlitchFisher&theme=dark" alt="Statistics of languages ​​in repositories" width="49.7%" height="auto"></a>
+<a><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GlitchFisher&theme=dark" alt="Profile statistics" width="49.7%" height="auto"></a>
+<a><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GlitchFisher&theme=dark" alt="Data on commits per day" width="49.7%" height="auto"></a>
+<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GlitchFisher&langs_count=20&theme=dark&hide_progress=true&hide_border=true" alt="Top Languages" width="49.7%" height="auto"></a>
 
 <h3>🌎 𝕄𝕪 𝕝𝕒𝕟𝕘𝕦𝕒𝕘𝕖𝕤:</h3>
 
@@ -224,20 +224,20 @@
 <h4>🎯 𝕀 𝕒𝕞 𝕒𝕝𝕣𝕖𝕒𝕕𝕪 𝕤𝕥𝕦𝕕𝕪𝕚𝕟𝕘 𝕠𝕣 𝕙𝕒𝕧𝕖 𝕤𝕥𝕦𝕕𝕚𝕖𝕕:</h4>
 
 <ul>
-    <li><img src="https://github.com/UmbraC2/UmbraC2/assets/136115919/dcb1abad-f007-4595-ba93-6b125e67a15b" alt="Russian" width="20px" height="12px"> &nbsp; ℝ𝕦𝕤𝕤𝕚𝕒𝕟 (ℕ𝕒𝕥𝕚𝕧𝕖)</li>
-    <li><img src="https://github.com/UmbraC2/UmbraC2/assets/136115919/c3cbff4f-7966-49d6-818e-0c0d28e23e2d" alt="English" width="20px" height="12px"> &nbsp; 𝔼𝕟𝕘𝕝𝕚𝕤𝕙 (𝔸𝟚)</li>
-    <li><img src="https://github.com/UmbraC2/UmbraC2/assets/136115919/e61d2c12-1f64-4522-b64f-ee7498cbce6a" alt="German" width="20px" height="12px"> &nbsp; 𝔾𝕖𝕣𝕞𝕒𝕟 (𝔸𝟙)</li>
+    <li><img src="https://github.com/GlitchFisher/GlitchFisher/assets/136115919/dcb1abad-f007-4595-ba93-6b125e67a15b" alt="Russian" width="20px" height="12px"> &nbsp; ℝ𝕦𝕤𝕤𝕚𝕒𝕟 (ℕ𝕒𝕥𝕚𝕧𝕖)</li>
+    <li><img src="https://github.com/GlitchFisher/GlitchFisher/assets/136115919/c3cbff4f-7966-49d6-818e-0c0d28e23e2d" alt="English" width="20px" height="12px"> &nbsp; 𝔼𝕟𝕘𝕝𝕚𝕤𝕙 (𝔸𝟚)</li>
+    <li><img src="https://github.com/GlitchFisher/GlitchFisher/assets/136115919/e61d2c12-1f64-4522-b64f-ee7498cbce6a" alt="German" width="20px" height="12px"> &nbsp; 𝔾𝕖𝕣𝕞𝕒𝕟 (𝔸𝟙)</li>
 </ul>
 
 <h4>🎓 𝕀 𝕡𝕝𝕒𝕟 𝕥𝕠 𝕤𝕥𝕦𝕕𝕪:</h4>
 
 <ul>
-    <li><img src="https://github.com/UmbraC2/UmbraC2/assets/136115919/4f189db8-2b34-44e8-afae-2412df2ca991" alt="French" width="20px" height="12px"> &nbsp; 𝔽𝕣𝕖𝕟𝕔𝕙</li>
-    <li><img src="https://github.com/UmbraC2/UmbraC2/assets/136115919/cc07d4c6-7180-41ef-9293-ede23491ceb1" alt="Spanish" width="20px" height="12px"> &nbsp; 𝕊𝕡𝕒𝕟𝕚𝕤𝕙</li>
-    <li><img src="https://github.com/UmbraC2/UmbraC2/assets/136115919/80dd124c-e721-4e86-9b2b-87b6898adfa3" alt="Italian" width="20px" height="12px"> &nbsp; 𝕀𝕥𝕒𝕝𝕚𝕒𝕟</li>
-    <li><img src="https://github.com/UmbraC2/UmbraC2/assets/136115919/432d52f7-5921-46b8-8cf8-8c76ad4bcc30" alt="Japanese" width="20px" height="12px"> &nbsp; 𝕁𝕒𝕡𝕒𝕟𝕖𝕤𝕖</li>
-    <li><img src="https://github.com/UmbraC2/UmbraC2/assets/136115919/1bb43b9e-e42e-45f4-89e2-7c3a2a694847" alt="Chinese" width="20px" height="12px"> &nbsp; ℂ𝕙𝕚𝕟𝕖𝕤𝕖</li>
-    <li><img src="https://github.com/UmbraC2/UmbraC2/assets/136115919/6e0981cc-7b3d-4d1a-8066-af7370980ab6" alt="Korean" width="20px" height="12px"> &nbsp; 𝕂𝕠𝕣𝕖𝕒𝕟</li>
+    <li><img src="https://github.com/GlitchFisher/GlitchFisher/assets/136115919/4f189db8-2b34-44e8-afae-2412df2ca991" alt="French" width="20px" height="12px"> &nbsp; 𝔽𝕣𝕖𝕟𝕔𝕙</li>
+    <li><img src="https://github.com/GlitchFisher/GlitchFisher/assets/136115919/cc07d4c6-7180-41ef-9293-ede23491ceb1" alt="Spanish" width="20px" height="12px"> &nbsp; 𝕊𝕡𝕒𝕟𝕚𝕤𝕙</li>
+    <li><img src="https://github.com/GlitchFisher/GlitchFisher/assets/136115919/80dd124c-e721-4e86-9b2b-87b6898adfa3" alt="Italian" width="20px" height="12px"> &nbsp; 𝕀𝕥𝕒𝕝𝕚𝕒𝕟</li>
+    <li><img src="https://github.com/GlitchFisher/GlitchFisher/assets/136115919/432d52f7-5921-46b8-8cf8-8c76ad4bcc30" alt="Japanese" width="20px" height="12px"> &nbsp; 𝕁𝕒𝕡𝕒𝕟𝕖𝕤𝕖</li>
+    <li><img src="https://github.com/GlitchFisher/GlitchFisher/assets/136115919/1bb43b9e-e42e-45f4-89e2-7c3a2a694847" alt="Chinese" width="20px" height="12px"> &nbsp; ℂ𝕙𝕚𝕟𝕖𝕤𝕖</li>
+    <li><img src="https://github.com/GlitchFisher/GlitchFisher/assets/136115919/6e0981cc-7b3d-4d1a-8066-af7370980ab6" alt="Korean" width="20px" height="12px"> &nbsp; 𝕂𝕠𝕣𝕖𝕒𝕟</li>
 </ul>
 
 
@@ -245,12 +245,12 @@
 
 <h4>⚔️ 𝕄𝕪 ℂ𝕠𝕕𝕖𝕨𝕒𝕣𝕤 𝕡𝕣𝕠𝕗𝕚𝕝𝕖:</h4>
 
-<a href="https://www.codewars.com/users/UmbraC2"><img src="https://github.com/user-attachments/assets/b7665c67-8724-4784-9987-a8ed8c82cb73" alt="Codewars link" title="Codewars link" width="45px" height="45px"></a> &nbsp; &nbsp; &nbsp;
-<a href="https://www.codewars.com/users/UmbraC2"><img src="https://www.codewars.com/users/UmbraC2/badges/large" alt="Codewars stats"></a>
+<a href="https://www.codewars.com/users/GlitchFisher"><img src="https://github.com/user-attachments/assets/b7665c67-8724-4784-9987-a8ed8c82cb73" alt="Codewars link" title="Codewars link" width="45px" height="45px"></a> &nbsp; &nbsp; &nbsp;
+<a href="https://www.codewars.com/users/GlitchFisher"><img src="https://www.codewars.com/users/GlitchFisher/badges/large" alt="Codewars stats"></a>
 
 <h4>📊 𝕄𝕪 𝕃𝕖𝕖𝕥ℂ𝕠𝕕𝕖 𝕡𝕣𝕠𝕗𝕚𝕝𝕖:</h4>
 
-<a href="https://github.com/KnlnKS/leetcode-stats"><img src="https://leetcard.jacoblin.cool/UmbraC2?ext=heatmap&theme=dark&border=0&radius=10" alt="LeetCode stats" width="49.7%" height="auto"></a>
+<a href="https://github.com/KnlnKS/leetcode-stats"><img src="https://leetcard.jacoblin.cool/GlitchFisher?ext=heatmap&theme=dark&border=0&radius=10" alt="LeetCode stats" width="49.7%" height="auto"></a>
 
 <h4>🕙 𝕄𝕪 𝕊𝕥𝕖𝕡𝕚𝕜 𝕡𝕣𝕠𝕗𝕚𝕝𝕖:</h4>
 
@@ -262,8 +262,8 @@
 
 <h3>📁 𝕄𝕪 𝕣𝕖𝕡𝕠𝕤𝕚𝕥𝕠𝕣𝕚𝕖𝕤:</h3>
 
-<a href="https://github.com/UmbraC2/Education"><img src="https://github-readme-stats.vercel.app/api/pin/?username=UmbraC2&repo=Education&theme=dark&hide_border=true" alt="Education" width="49.7%" height="auto"></a>
-<a href="https://github.com/UmbraC2/NSU"><img src="https://github-readme-stats.vercel.app/api/pin/?username=UmbraC2&repo=NSU&theme=dark&hide_border=true" alt="NSU" width="49.7%" height="auto"></a>
+<a href="https://github.com/GlitchFisher/Education"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GlitchFisher&repo=Education&theme=dark&hide_border=true" alt="Education" width="49.7%" height="auto"></a>
+<a href="https://github.com/GlitchFisher/NSU"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GlitchFisher&repo=NSU&theme=dark&hide_border=true" alt="NSU" width="49.7%" height="auto"></a>
 
 <h3>🖊️ 𝔸𝕓𝕠𝕦𝕥 𝕞𝕖:</h3>
 
