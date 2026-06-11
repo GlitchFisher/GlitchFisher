@@ -1,4 +1,4 @@
-name: Generate Snake Animation
+name: Snake Animation
 
 on:
   schedule:
@@ -14,18 +14,19 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate GitHub Contributions Snake Animations
+      - name: Snake Animations
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/snake.svg
+            dist/snake_dark.svg?palette=github-dark
+            dist/snake_light.svg?palette=github-light
 
-      - name: Deploy to Output Branch
+      - name: Deploy
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
           publish_branch: output
-          commit_message: "Update snake animation [skip ci]"
+          commit_message: "Update snake animation"
