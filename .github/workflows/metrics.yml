@@ -13,19 +13,21 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Metrics
+      - name: Generate metrics
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           filename: profile-3d.svg
+          output_action: none
           base_indepth: yes
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
-      - name: Deploy
+      - name: Deploy only profile-3d.svg to output branch
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./
           publish_branch: output
+          keep_files: false
           commit_message: "Update metrics animation"
