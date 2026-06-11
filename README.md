@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/github/followers/GlitchFisher?style=flat&logo=github" alt="Followers"/> &nbsp;
     <img src="https://img.shields.io/github/last-commit/GlitchFisher/GlitchFisher" alt="Last commit"/> &nbsp;
     <img src="https://komarev.com/ghpvc/?username=GlitchFisher" alt="Counter"> &nbsp;
-    <img src="https://img.shields.io/github/forks/madushadhanushka/simple-sqlite?style=flat&color=brightgreen" alt="Forks"/>
+    <img src="https://img.shields.io/github/forks/GlitchFisher/GlitchFisher?style=flat&logo=github" alt="Forks"/>
 </div>
 
 <!-- My snake -->
@@ -24,6 +24,11 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GlitchFisher/GlitchFisher/output/github-contribution-grid-snake.svg">
     <img alt="Snake animation" src="https://raw.githubusercontent.com/GlitchFisher/GlitchFisher/output/github-contribution-grid-snake.svg" width="100%" height="auto">
 </picture>
+
+<!-- My activity -->
+<h3>🧩 𝕄𝕪 𝕒𝕔𝕥𝕚𝕧𝕚𝕥𝕪:</h3>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GlitchFisher&theme=github-compact&hide_title=true&area=true">
 
 <!-- My contects -->
 <h3>📡 ℂ𝕠𝕟𝕥𝕒𝕔𝕥 𝕞𝕖:</h3>
