@@ -34,7 +34,7 @@
 
 <!-- My repositories -->
 <div align="center">
-  <img alt="Solar system animation" src="https://raw.githubusercontent.com/GlitchFisher/output/solar_system.svg" width="100%">
+  <img alt="Solar system animation" src="https://raw.githubusercontent.com/GlitchFisher/GlitchFisher/output/solar_system.svg" width="100%" height="auto">
 </div>
 
 <!-- My contects -->
