@@ -1,4 +1,4 @@
-name: Snake Animation
+name: Snake
 
 on:
   schedule:
@@ -14,7 +14,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Snake Animations
+      - name: Snake
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
