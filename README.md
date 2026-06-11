@@ -18,6 +18,10 @@
     <img src="https://img.shields.io/github/forks/GlitchFisher/GlitchFisher?style=flat&logo=github" alt="Forks"/>
 </div>
 
+<div align="center">
+  <img alt="Metrics" src="https://raw.githubusercontent.com/GlitchFisher/GlitchFisher/output/metrics.svg" width="100%" height="auto">
+</div>
+
 <!-- My snake -->
 <div align="center">
     <picture>
