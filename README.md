@@ -56,7 +56,7 @@
 <h3>🏆 𝔾𝕚𝕥ℍ𝕦𝕓 𝕡𝕣𝕠𝕗𝕚𝕝𝕖 𝕥𝕣𝕠𝕡𝕙𝕪:</h3>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GlitchFisher&theme=tokyonight&column=-1&no-frame=true" alt="Achievements">
+    <img src="https://github-profile-trophy.vercel.app/?username=GlitchFisher&theme=tokyonight&column=-1&no-frame=true" alt="Achievements">
 </p>
 
 <!-- My goals and interests -->
@@ -69,109 +69,109 @@
 
 <h4>😎 𝔸𝕝𝕣𝕖𝕒𝕕𝕪 𝕦𝕤𝕖𝕕 𝕗𝕠𝕣 𝕨𝕠𝕣𝕜:</h4>
 
-<a href=""><img src="https://github.com/user-attachments/assets/800c3c28-616f-4d09-90ac-d84ec58d42f2" alt="Python" title="Python" width="45px" height="45px"></a> &nbsp;
-<a href=""><img src="https://github.com/user-attachments/assets/e50a4436-beb8-4d97-ad75-1328413cee0b" alt="C" title="C" width="45px" height="45px"></a> &nbsp;
-<a href=""><img src="https://github.com/user-attachments/assets/0389a1e6-2c6d-4d6a-928b-9437d64eab19" alt="C++" title="C++" width="45px" height="45px"></a> &nbsp;
-<a href=""><img src="https://github.com/user-attachments/assets/7bb37000-65f7-4080-b851-aa07c3e58042" alt="HTML" title="HTML" width="45px" height="45px"></a> &nbsp;
-<a href=""><img src="https://github.com/user-attachments/assets/fa38dde1-58dd-477f-a12e-c605544885c1" alt="CSS" title="CSS" width="45px" height="45px"></a> &nbsp;
-<a href=""><img src="https://github.com/user-attachments/assets/31b8c4fa-5d4d-4da8-b2cb-80f94e94b44d" alt="JavaScript" title="JavaScript" width="45px" height="45px"></a> &nbsp;
-<a href=""><img src="https://github.com/user-attachments/assets/2df2c4b3-5278-4941-a8a0-f7d06eb1b7b3" alt="TypeScript" title="TypeScript" width="45px" height="45px"></a> &nbsp;
-<a href=""><img src="https://github.com/user-attachments/assets/c133324f-5d9f-49bc-8d94-eb5cc280bfd0" alt="Kotlin" title="Kotlin" width="45px" height="45px"></a> <br>
-<a href=""><img src="https://github.com/user-attachments/assets/8503d559-def5-4074-a4a9-61553a4e2d21" alt="1C" title="1C" width="45px" height="45px"></a> &nbsp;
-<a href=""><img src="https://github.com/user-attachments/assets/4f683245-1b8c-408f-98de-a055e8b60f44" alt="SystemVerelog" title="SystemVerelog" width="45px" height="45px"></a> &nbsp;
-<a href=""><img src="https://github.com/user-attachments/assets/14f3df5e-fcca-4566-9cd4-794967e8717b" alt="PowerShell" title="PowerShell" width="45px" height="45px"></a> &nbsp;
-<a href=""><img src="https://github.com/user-attachments/assets/16c650d2-29fc-4c43-b811-ab51b18b2e43" alt="Bash" title="Bash" width="45px" height="45px"></a> &nbsp;
-<a href=""><img src="https://github.com/user-attachments/assets/0e512f9a-edd4-4301-961f-12f87a4e6675" alt="MySQL" title="MySQL" width="45px" height="45px"></a> &nbsp;
-<a href=""><img src="https://github.com/user-attachments/assets/d7648a1b-1c66-4a54-82a9-c0507541efda" alt="Oracle" title="Oracle" width="45px" height="45px"></a> &nbsp;
-<a href=""><img src="https://github.com/user-attachments/assets/b6b1ceef-edc0-4fcf-8500-dacdfec59108" alt="MongoDB" title="MongoDB" width="45px" height="45px"></a> &nbsp;
-<a href=""><img src="https://github.com/user-attachments/assets/015aabed-b8e5-4139-8a03-742c1840db60" alt="MatLab" title="MatLab" width="45px" height="45px"></a> <br>
-<a href=""><img src="https://github.com/user-attachments/assets/c810a0b1-1b0d-4e68-b54f-654aca298c1c" alt="LaTeX" title="LaTeX" width="45px" height="45px"></a> &nbsp;
-<a href=""><img src="https://github.com/user-attachments/assets/caf54767-6295-43de-8caf-161f61ad8571" alt="Wolfram" title="Wolfram" width="45px" height="45px"></a> &nbsp;
-<a href=""><img src="https://github.com/user-attachments/assets/818628a3-e16b-441e-a133-ae92198cde17" alt="Markdown" title="Markdown" width="45px" height="45px"></a> &nbsp;
-<a href=""><img src="https://github.com/user-attachments/assets/20fea1a0-061e-4b7c-bc54-4f238ca993dc" alt="Java" title="Java" width="45px" height="45px"></a> &nbsp;
-<a href=""><img src="https://github.com/user-attachments/assets/0ec23a1f-bc5c-4985-8ef4-ce09b45cfe49" alt="PHP" title="PHP" width="45px" height="45px"></a> &nbsp;
-<a href=""><img src="https://github.com/user-attachments/assets/58147d8c-702c-472c-9113-19977e16dc2e" alt="Swift" title="Swift" width="45px" height="45px"></a> &nbsp;
-<a href=""><img src="https://github.com/user-attachments/assets/3e79c180-8d13-407e-9b22-b989a3dd0d79" alt="Assembler" title="Assembler" width="45px" height="45px"></a>
+<img src="https://github.com/user-attachments/assets/afe94070-aab9-4d56-a31d-6c9afb02e4f0" alt="Python" title="Python" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/user-attachments/assets/a0a48dbd-84f1-487f-a5f6-645bc17df6c3" alt="C" title="C" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/user-attachments/assets/41d24516-6c53-4bd6-9ee8-2a8a900a2464" alt="C++" title="C++" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/user-attachments/assets/9e1d9f6f-2e43-40e5-b7c2-f9a4d4b2d53c" alt="HTML" title="HTML" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/user-attachments/assets/b91c68c9-4352-43e5-8e1b-7d4cd00b9c95" alt="CSS" title="CSS" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/user-attachments/assets/ab09704f-704b-4112-98b3-df84080f3421" alt="JavaScript" title="JavaScript" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/user-attachments/assets/7082fc82-2584-4b42-a1eb-76c7f7513e78" alt="TypeScript" title="TypeScript" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/user-attachments/assets/985e0916-8f76-4e3a-88e6-276c96661101" alt="Kotlin" title="Kotlin" width="45px" height="45px"> <br>
+<img src="https://github.com/user-attachments/assets/8414fd38-825e-4a04-97f4-3564c2d8651b" alt="1C" title="1C" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/user-attachments/assets/b036181f-a68c-45fb-a45e-618d31943884" alt="SystemVerelog" title="SystemVerelog" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/user-attachments/assets/01319a6c-b3dd-4e99-990d-17878aa779c4" alt="PowerShell" title="PowerShell" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/user-attachments/assets/688e6c51-d0ed-4e3c-af43-c88cdd5362d0" alt="Bash" title="Bash" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/user-attachments/assets/f98ff3af-ad78-427c-a793-7b6da5bef6f3" alt="MySQL" title="MySQL" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/user-attachments/assets/e5cc787e-7e5f-4455-931d-13929467a51c" alt="Oracle" title="Oracle" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/user-attachments/assets/117276c6-64ec-4b62-aabc-c1fb9c789a6f" alt="MongoDB" title="MongoDB" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/user-attachments/assets/6af93723-15af-4815-9e5e-b4ef83d361ed" alt="MatLab" title="MatLab" width="45px" height="45px"> <br>
+<img src="https://github.com/user-attachments/assets/224a484a-10be-4f9e-9990-7b6570b210b7" alt="LaTeX" title="LaTeX" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/user-attachments/assets/3de6ecf6-bf3c-42fc-9da2-50d13b4ef118" alt="Wolfram" title="Wolfram" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/user-attachments/assets/f1a97a35-33bd-4ef7-bb54-b6020a5b15c7" alt="Markdown" title="Markdown" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/user-attachments/assets/bfa04d6c-2e5c-4d1e-bccf-783357d0163b" alt="Java" title="Java" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/user-attachments/assets/9f1131d6-e289-4e36-b4a8-cdbce91851ed" alt="PHP" title="PHP" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/user-attachments/assets/995bb923-790e-4a91-911d-7f059c81e48b" alt="Swift" title="Swift" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/user-attachments/assets/4c342d64-c12f-4bc0-b0e6-8975920da39c" alt="Assembler" title="Assembler" width="45px" height="45px">
 
 <h4>🧐 𝕀 𝕨𝕒𝕟𝕥 𝕥𝕠 𝕝𝕖𝕒𝕣𝕟:</h4>
 
-<a href=""><img src="https://github.com/user-attachments/assets/60474c62-c1d6-46b8-916d-2bd663ce4b04" alt="C#" title="C#" width="45px" height="45px"></a> &nbsp;
-<a href=""><img src="https://github.com/user-attachments/assets/6ac574d6-a081-4d04-932d-8d17edaafdf3" alt="R" title="R" width="45px" height="45px"></a> &nbsp;
-<a href=""><img src="https://github.com/user-attachments/assets/30c9c476-b33e-4ea1-8c92-3efbe5a333fc" alt="Dart" title="Dart" width="45px" height="45px"></a> &nbsp;
-<a href=""><img src="https://github.com/user-attachments/assets/1d343cf0-70e0-4d6e-9686-0eea3d725a0a" alt="SQLite" title="SQLite" width="45px" height="45px"></a> &nbsp;
-<a href=""><img src="https://github.com/user-attachments/assets/39e033a4-494a-45c6-a277-87e962413a41" alt="PostgreSQL" title="PostgreSQL" width="45px" height="45px"></a> &nbsp;
-<a href=""><img src="https://github.com/user-attachments/assets/29cd9312-9965-47cb-a914-aa893f3d8782" alt="Ruby" title="Ruby" width="45px" height="45px"></a> &nbsp;
-<a href=""><img src="https://github.com/user-attachments/assets/a38dbb1d-e2af-4828-9c13-a95a73a023f0" alt="Go" title="Go" width="45px" height="45px"></a> &nbsp;
-<a href=""><img src="https://github.com/user-attachments/assets/cde2d4e5-4cbf-4154-b577-3677997c7c29" alt="Rust" title="Rust" width="45px" height="45px"></a> <br>
-<a href=""><img src="https://github.com/user-attachments/assets/9cb3bc61-7467-4a3c-9e05-6ad8fcef8ad9" alt="Scala" title="Scala" width="45px" height="45px"></a> &nbsp;
-<a href=""><img src="https://github.com/KLimPALE/KLimPALE/assets/136115919/7634f4d4-bf71-4967-bddc-8ca91a3a25f0" alt="Julia" title="Julia" width="45px" height="45px"></a> &nbsp;
-<a href=""><img src="https://github.com/KLimPALE/KLimPALE/assets/136115919/e175a0a2-a262-4fd2-8bdc-c3d1165cbc36" alt="Object Pascal" title="Object Pascal" width="45px" height="45px"></a> &nbsp;
-<a href=""><img src="https://github.com/user-attachments/assets/1bac15a4-c0fb-4d4d-81ca-3bb66519b833" alt="Perl" title="Perl" width="45px" height="45px"></a>
+<img src="https://github.com/user-attachments/assets/9cb1f9d6-4811-4ce9-a7e6-d0268666a685" alt="C#" title="C#" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/user-attachments/assets/679c9c4a-1d5b-4c8d-bd29-36435eedaf46" alt="R" title="R" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/user-attachments/assets/0652c305-03f3-4ffb-b6cc-a989ea24c5e2" alt="Dart" title="Dart" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/user-attachments/assets/4b0116ca-abc2-4390-b3d0-6a071876e53f" alt="SQLite" title="SQLite" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/user-attachments/assets/fc73c1d0-d16b-4bc9-b0dc-4d880762b9b8" alt="PostgreSQL" title="PostgreSQL" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/user-attachments/assets/a3b9237f-e3b3-4f09-b7d5-6eced567f4ce" alt="Ruby" title="Ruby" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/user-attachments/assets/83763d22-fe64-4a40-912e-49526ca29cf2" alt="Go" title="Go" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/user-attachments/assets/ddced2c7-cd80-4075-92c2-5e2150d93717" alt="Rust" title="Rust" width="45px" height="45px"> <br>
+<img src="https://github.com/user-attachments/assets/4eb8274e-11ba-49a6-9cab-ca3772549661" alt="Scala" title="Scala" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/user-attachments/assets/1dc02c5f-1dec-42a8-beb2-f0be0c72a51c" alt="Julia" title="Julia" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/user-attachments/assets/f2daa967-91e8-4343-9087-65b24316cb90" alt="Object Pascal" title="Object Pascal" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/user-attachments/assets/05f63eaa-25a4-4761-ae77-daed46fe675b" alt="Perl" title="Perl" width="45px" height="45px">
 
 <!-- My framework -->
 <h3>💼 𝔽𝕣𝕒𝕞𝕖𝕨𝕠𝕣𝕜𝕤 𝕀 𝕙𝕒𝕧𝕖 𝕨𝕠𝕣𝕜𝕖𝕕 𝕨𝕚𝕥𝕙:</h3>
 
-<img src="https://github.com/user-attachments/assets/c34c0011-d534-41a8-aa22-6eddb992f1fd" alt="React.js" title="React.js" width="45px" height="45px"> &nbsp;
-<img src="https://github.com/user-attachments/assets/6c1beeec-8a87-4a03-b4b5-82f7ca7e0e21" alt="Vue.js" title="Vue.js" width="45px" height="45px"> &nbsp;
-<img src="https://github.com/user-attachments/assets/54e6d918-77d8-4e0a-9cef-650ea8b7b296" alt="Angular" title="Angular" width="45px" height="45px"> &nbsp;
-<img src="https://github.com/KLimPALE/KLimPALE/assets/136115919/84a5e8f3-e48b-4220-9f73-701726ba97cc" alt="Jquery" title="Jquery" width="45px" height="45px"> &nbsp;
-<img src="https://github.com/user-attachments/assets/a3a179a6-07db-4a68-ac22-ab836ac098b3" alt="Node.js" title="Node.js" width="45px" height="45px"> &nbsp;
-<img src="https://github.com/KLimPALE/KLimPALE/assets/136115919/32f29ffd-0eab-497c-a766-5dfc1eb4e94a" alt="Django" title="Django" width="45px" height="45px"> &nbsp;
-<img src="https://github.com/KLimPALE/KLimPALE/assets/136115919/ed989df8-22c5-4dac-853a-32b92d2348a4" alt="Pyramid" title="Pyramid" width="45px" height="45px"> &nbsp;
-<img src="https://github.com/KLimPALE/KLimPALE/assets/136115919/a5675197-e6f4-4b2a-b9cd-bb65b9421b47" alt="Flask" title="Flask" width="45px" height="45px"> <br>
-<img src="https://github.com/user-attachments/assets/227569e8-59cf-4bbd-ab28-5bdf0d869bf0" alt="Pytest" title="Pytest" width="45px" height="45px"> &nbsp;
-<img src="https://github.com/user-attachments/assets/618406b3-4429-4190-8659-5805bef369a6" alt="Pandas" title="Pandas" width="45px" height="45px"> &nbsp;
-<img src="https://github.com/KLimPALE/KLimPALE/assets/136115919/5e7ce8fe-b11c-4396-8037-e045537cc63c" alt="NumPy" title="NumPy" width="45px" height="45px"> &nbsp;
-<img src="https://github.com/KLimPALE/KLimPALE/assets/136115919/ae030567-7cd4-4190-a13b-13c6174228cb" alt="Matplotlib" title="Matplotlib" width="45px" height="45px"> &nbsp;
-<img src="https://github.com/user-attachments/assets/a5d4ec66-c0a9-41fc-91fc-6c7651b1f3b0" alt="Plotly" title="Plotly" width="45px" height="45px"> &nbsp;
-<img src="https://github.com/KLimPALE/KLimPALE/assets/136115919/83124ee9-6ea3-4a0e-8144-db0f9d06eda7" alt="TensorFlow" title="TensorFlow" width="45px" height="45px"> &nbsp;
-<img src="https://github.com/KLimPALE/KLimPALE/assets/136115919/b85aac65-dffa-488e-b7ac-cbd257037ea9" alt="Keras" title="Keras" width="45px" height="45px"> &nbsp;
-<img src="https://github.com/user-attachments/assets/c549d503-3609-4946-83ea-47ede52e5c1a" alt="PyTorch" title="PyTorch" width="45px" height="45px"> <br>
-<img src="https://github.com/KLimPALE/KLimPALE/assets/136115919/6631e372-8ca8-4198-8206-0ce932a1d45e" alt="DotNet" title="DotNet" width="45px" height="45px"> &nbsp;
-<img src="https://github.com/user-attachments/assets/fe840318-5613-41f8-9ca0-0687b40a8781" alt="Unity" title="Unity" width="45px" height="45px"> &nbsp;
-<img src="https://github.com/KLimPALE/KLimPALE/assets/136115919/a3d9c829-fce1-4a50-9b4f-84de6ca4efe3" alt="Unreal Engine" title="Unreal Engine" width="45px" height="45px"> &nbsp;
-<img src="https://github.com/KLimPALE/KLimPALE/assets/136115919/07c79fbc-62d9-43ca-a9d3-1b4024d7ad14" alt="Godot Engine" title="Godot Engine" width="45px" height="45px"> &nbsp;
-<img src="https://github.com/KLimPALE/KLimPALE/assets/136115919/f7434797-0409-4801-9931-59615f44637f" alt="Kafka" title="Kafka" width="45px" height="45px"> &nbsp;
-<img src="https://github.com/KLimPALE/KLimPALE/assets/136115919/0ee72a8b-377e-41b0-9829-43f6a188d7cb" alt="Oxidation Compiler" title="Oxidation Compiler" width="45px" height="45px"> &nbsp;
-<img src="https://github.com/KLimPALE/KLimPALE/assets/136115919/cabb303a-ab84-4de5-833e-ee2322348368" alt="Deno" title="Deno" width="45px" height="45px"> &nbsp;
-<img src="https://github.com/KLimPALE/KLimPALE/assets/136115919/da58e55a-6572-40b8-9a3c-7b395921045a" alt="Tauri" title="Tauri" width="45px" height="45px"> <br>
-<img src="https://github.com/user-attachments/assets/6a6046c4-7e56-4a41-8211-947a1b9858aa" alt="Svelte" title="Svelte" width="45px" height="45px"> &nbsp;
-<img src="https://github.com/KLimPALE/KLimPALE/assets/136115919/de3c0093-b518-4df0-8456-4004ff4edd5b" alt="Vite" title="Vite" width="45px" height="45px"> &nbsp;
-<img src="https://github.com/user-attachments/assets/cc2bfa6a-ca00-497b-8bb3-eafad6ec55e9" alt="Webpack" title="Webpack" width="45px" height="45px"> &nbsp;
-<img src="https://github.com/KLimPALE/KLimPALE/assets/136115919/d5178eb1-43e1-47ea-8468-c1c121435482" alt="Metasploit" title="Metasploit" width="45px" height="45px"> &nbsp;
-<img src="https://github.com/user-attachments/assets/309d8f8c-1c5f-437c-b31b-69512eea6f5d" alt="Flutter" title="Flutter" width="45px" height="45px">
+<img src="https://github.com/user-attachments/assets/510d6cee-46bb-4300-b1f2-5ad31d46d9a3" alt="React.js" title="React.js" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/user-attachments/assets/732c637d-d873-4669-bee2-fd2b9083b401" alt="Vue.js" title="Vue.js" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/user-attachments/assets/8f8c102b-468a-44b2-b676-31e00ddc49b2" alt="Angular" title="Angular" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/user-attachments/assets/40bc29f6-65aa-4054-803f-3906e9f2ab24" alt="Jquery" title="Jquery" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/user-attachments/assets/e83620f8-e915-4c2c-8494-c2dc652cfff4" alt="Node.js" title="Node.js" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/user-attachments/assets/df73ae7b-0c72-4936-8808-e327bc44a88c" alt="Django" title="Django" width="45px" height="45px"> &nbsp;
+<img src="" alt="Pyramid" title="Pyramid" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/user-attachments/assets/87894921-eba8-42aa-97c4-c93be2dfb718" alt="Flask" title="Flask" width="45px" height="45px"> <br>
+<img src="https://github.com/user-attachments/assets/810745b2-8d3c-4ac4-99a6-dda8c263d2e5" alt="PyTest" title="PyTest" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/user-attachments/assets/ef4c420a-d9a7-4157-93d9-a71cdd14cb78" alt="Pandas" title="Pandas" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/user-attachments/assets/a954eb5e-9ca2-4a9d-ab49-b5c1c98f218d" alt="NumPy" title="NumPy" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/user-attachments/assets/66edc646-3583-4ca9-99a6-0d5e82dcf32f" alt="Matplotlib" title="Matplotlib" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/user-attachments/assets/dcfa0837-21f0-46bf-b722-c746e05fce94" alt="Plotly" title="Plotly" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/user-attachments/assets/16ec67f3-6ce0-4549-93be-e282c0d24faf" alt="TensorFlow" title="TensorFlow" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/user-attachments/assets/a754b327-df06-47b1-9d00-e89c57447946" alt="Keras" title="Keras" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/user-attachments/assets/3d0a7969-da85-4490-bbbd-a20f64fd739a" alt="PyTorch" title="PyTorch" width="45px" height="45px"> <br>
+<img src="https://github.com/user-attachments/assets/7149dc9e-a84d-482d-9d5d-af03cf732687" alt="DotNet" title="DotNet" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/user-attachments/assets/a080f279-eb30-4a93-bc99-610c01f07400" alt="Unity" title="Unity" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/user-attachments/assets/2a446c0b-5150-4f87-b403-efaf24648161" alt="Unreal Engine" title="Unreal Engine" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/user-attachments/assets/7f49e297-5c7b-4b72-9135-fbc81bbb9dda" alt="Godot Engine" title="Godot Engine" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/user-attachments/assets/b8b93e29-8b8e-4abd-a776-21feebdd5204" alt="Kafka" title="Kafka" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/user-attachments/assets/9ed93857-becd-4521-9672-c4c6a1d8f1f9" alt="Oxidation Compiler" title="Oxidation Compiler" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/user-attachments/assets/a44ef31a-3c20-45d0-9769-ee680d949130" alt="Deno" title="Deno" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/user-attachments/assets/1dbc2f97-5fe1-4688-b962-554c1b0e6eff" alt="Tauri" title="Tauri" width="45px" height="45px"> <br>
+<img src="https://github.com/user-attachments/assets/095d6d33-3975-4635-83db-aac150400add" alt="Svelte" title="Svelte" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/user-attachments/assets/429f045f-4381-4fa6-8457-a0168cb861a1" alt="Vite" title="Vite" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/user-attachments/assets/ce076b80-bfb0-46e4-b3ca-25ea8eefb361" alt="Webpack" title="Webpack" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/user-attachments/assets/c34954e0-da10-4e31-a6dd-88c78ec8ac58" alt="Metasploit" title="Metasploit" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/user-attachments/assets/8de41d43-9086-4773-afc5-5308beb04c0a" alt="Flutter" title="Flutter" width="45px" height="45px">
 
 <!-- My tools -->
 <h3>🛠️ 𝕋𝕠𝕠𝕝𝕤 𝕀 𝕦𝕤𝕖𝕕:</h3>
 
-<img src="https://github.com/KLimPALE/KLimPALE/assets/136115919/ae968aa0-52a2-45a3-ac46-70cb90b1ec6e" alt="Photoshop" title="Photoshop" width="45px" height="45px"> &nbsp;
-<img src="https://github.com/KLimPALE/KLimPALE/assets/136115919/1a6cf766-e466-4f48-9330-ca67ab29ce7b" alt="After Effects" title="After Effects" width="45px" height="45px"> &nbsp;
-<img src="https://github.com/KLimPALE/KLimPALE/assets/136115919/50162274-cd27-4b82-8583-22b1873ca355" alt="Premiere Pro" title="Premiere Pro" width="45px" height="45px"> &nbsp;
-<img src="https://github.com/KLimPALE/KLimPALE/assets/136115919/68510290-7cf1-4962-b120-10a3f7d2e74c" alt="Illustrator" title="Illustrator" width="45px" height="45px"> &nbsp;
-<img src="https://github.com/KLimPALE/KLimPALE/assets/136115919/40f395a4-b0fa-463e-9e77-dc67f1dce294" alt="XD" title="Experience Design" width="45px" height="45px"> &nbsp;
-<img src="https://github.com/KLimPALE/KLimPALE/assets/136115919/f0bd85a3-e318-43e8-987f-f0ab84e4010c" alt="ChatGPT" title="ChatGPT" width="45px" height="45px"> &nbsp;
-<img src="https://github.com/KLimPALE/KLimPALE/assets/136115919/ede706a9-d02c-4b6f-a208-cf0a568f84dc" alt="Wolfram mathematica" title="Wolfram mathematica" width="45px" height="45px"> &nbsp;
-<img src="https://github.com/KLimPALE/KLimPALE/assets/136115919/b534c5a6-ad0d-4c73-a3c6-21ab1ad333b3" alt="Docker" title="Docker" width="45px" height="45px"> <br>
-<img src="https://github.com/KLimPALE/KLimPALE/assets/136115919/9668d142-a705-4eb0-b0f2-f99e939a3f47" alt="Blender" title="Blender" width="45px" height="45px"> &nbsp;
-<img src="https://github.com/KLimPALE/KLimPALE/assets/136115919/96492454-1e53-4575-8598-8c1b0716204c" alt="Linux" title="Linux" width="45px" height="45px"> &nbsp;
-<img src="https://github.com/KLimPALE/KLimPALE/assets/136115919/d63a4048-53c4-4b2e-bb63-51029d87cfcc" alt="Windows" title="Windows" width="45px" height="45px"> &nbsp;
-<img src="https://github.com/KLimPALE/KLimPALE/assets/136115919/5203f4cb-2ea7-4e59-9a3d-2d56084f5fc5" alt="iOS" title="iOS" width="45px" height="45px"> &nbsp;
-<img src="https://github.com/KLimPALE/KLimPALE/assets/136115919/93a85746-62f6-4a52-be3a-03b82390d0ef" alt="Ubuntu" title="Ubuntu" width="45px" height="45px"> &nbsp;
-<img src="https://github.com/KLimPALE/KLimPALE/assets/136115919/8a99113f-26a8-4900-a9fa-0af9a1fc5a0d" alt="Debian" title="Debian" width="45px" height="45px"> &nbsp;
-<img src="https://github.com/KLimPALE/KLimPALE/assets/136115919/872a23a0-e276-4be0-af40-48c276457611" alt="Fedora" title="Fedora" width="45px" height="45px"> &nbsp;
-<img src="https://github.com/KLimPALE/KLimPALE/assets/136115919/e0a30e8f-93cc-4f52-92b1-a77d21c2980c" alt="Arch" title="Arch" width="45px" height="45px"> <br>
-<img src="https://github.com/KLimPALE/KLimPALE/assets/136115919/54d93c0b-041b-4b1d-b839-36d8a96cef3c" alt="Git" title="Git" width="45px" height="45px"> &nbsp;
-<img src="https://github.com/KLimPALE/KLimPALE/assets/136115919/06fed3a8-b513-4de6-8d05-7174ac49bc37" alt="GitHub" title="GitHub" width="45px" height="45px"> &nbsp;
-<img src="https://github.com/user-attachments/assets/b1485186-eb65-4176-824f-016406b23a63" alt="GitLab" title="GitLab" width="45px" height="45px"> &nbsp;
-<img src="https://github.com/KLimPALE/KLimPALE/assets/136115919/295b2fa1-2f76-4763-bcfe-897e6416e7fe" alt="Wordpress" title="Wordpress" width="45px" height="45px"> &nbsp;
-<img src="https://github.com/KLimPALE/KLimPALE/assets/136115919/2ec992ea-5de2-4314-8a91-50bae22c6a3e" alt="Tilda" title="Tilda" width="45px" height="45px"> &nbsp;
-<img src="https://github.com/user-attachments/assets/e4094ea8-1461-4b22-9372-8e467fc4195d" alt="Figma" title="Figma" width="45px" height="45px"> &nbsp;
-<img src="https://github.com/KLimPALE/KLimPALE/assets/136115919/abecd2fd-206c-4c4a-b581-73596fe123d4" alt="Raspberry Pi" title="Raspberry Pi" width="45px" height="45px"> &nbsp;
-<img src="https://github.com/user-attachments/assets/0e83f62d-1715-4bf6-bdb5-81a248a5c6bb" alt="Gradle" title="Gradle" width="45px" height="45px"> <br>
-<img src="https://github.com/user-attachments/assets/673bf9aa-67e8-4d5c-b818-aee1a1b15e81" alt="CMake" title="CMake" width="45px" height="45px"> &nbsp;
-<img src="https://github.com/KLimPALE/KLimPALE/assets/136115919/ed143b06-8008-4726-bb36-dfb33be97c78" alt="Nmap" title="Nmap" width="45px" height="45px"> &nbsp;
-<img src="https://github.com/KLimPALE/KLimPALE/assets/136115919/6f8be38f-f1c1-4349-b8ad-e4e039b2a7ff" alt="Wireshark" title="Wireshark" width="45px" height="45px"> &nbsp;
-<img src="https://github.com/KLimPALE/KLimPALE/assets/136115919/bfd8dc70-2d14-48df-90c6-7874c8a8d668" alt="Burp Suite" title="Burp Suite" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/user-attachments/assets/b45ed32c-e052-4cd4-baf7-2fe0434e4bfa" alt="Photoshop" title="Photoshop" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/user-attachments/assets/eb58c4ec-4459-4d7c-b94b-28b43c8e6b93" alt="After Effects" title="After Effects" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/user-attachments/assets/53bc4b44-bd18-470a-88ba-18c04768adde" alt="Premiere Pro" title="Premiere Pro" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/user-attachments/assets/28a4507f-2d18-472c-97a4-3ac9741fe25d" alt="Illustrator" title="Illustrator" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/user-attachments/assets/285ffb6b-de45-4ed0-be50-494e7f3ce709" alt="Experience Design" title="Experience Design" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/user-attachments/assets/a3978de6-5658-4dd1-942b-0907a28fef72" alt="ChatGPT" title="ChatGPT" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/user-attachments/assets/427f1dde-a303-4c84-bb09-a7cb45942a34" alt="Wolfram Mathematica" title="Wolfram Mathematica" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/user-attachments/assets/9ae81f68-9769-4c64-af77-0e0992be37a8" alt="Docker" title="Docker" width="45px" height="45px"> <br>
+<img src="https://github.com/user-attachments/assets/2fb7715d-b98b-413f-a68b-3cdb519316ba" alt="Blender" title="Blender" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/user-attachments/assets/0e0d65ea-3a23-4d4a-9957-1d09386eea7f" alt="Linux" title="Linux" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/user-attachments/assets/7746c89a-cfdf-47b8-a4d5-4b6355d3bc44" alt="Windows" title="Windows" width="45px" height="45px"> &nbsp;
+<img src="" alt="iOS" title="iOS" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/user-attachments/assets/10693e95-2996-4eee-a859-c6b4f7f64930" alt="Ubuntu" title="Ubuntu" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/user-attachments/assets/c5ff7158-4ae2-4467-93ce-2803195a46ca" alt="Debian" title="Debian" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/user-attachments/assets/e912a83d-5876-4f2e-93f2-0d91aa255216" alt="Fedora" title="Fedora" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/user-attachments/assets/8479d3ab-f05c-48ff-a62f-a901dd0b7af1" alt="Arch" title="Arch" width="45px" height="45px"> <br>
+<img src="https://github.com/user-attachments/assets/f973d3de-64e8-4b1c-a809-a2a97b76b38f" alt="Git" title="Git" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/user-attachments/assets/ebbdecb0-0790-4feb-92e8-71e4b0d0f63f" alt="GitHub" title="GitHub" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/user-attachments/assets/073afe40-fa8a-4ed7-a004-34b76992b500" alt="GitLab" title="GitLab" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/user-attachments/assets/4b39934b-7db0-4e89-9824-14c2ef93b265" alt="WordPress" title="WordPress" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/user-attachments/assets/dd9d0380-98d7-4a9c-b375-3dca9b9286a0" alt="Tilda" title="Tilda" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/user-attachments/assets/6ec7450d-0051-4d67-b5e4-e82ed673c165" alt="Figma" title="Figma" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/user-attachments/assets/62d9e531-1e57-40d2-8fa1-de342e77cb33" alt="Raspberry Pi" title="Raspberry Pi" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/user-attachments/assets/bb094b42-77be-440f-ab93-012fc9d80c3a" alt="Gradle" title="Gradle" width="45px" height="45px"> <br>
+<img src="https://github.com/user-attachments/assets/9f70d629-4977-4fd0-8ad3-9acc08f329a3" alt="CMake" title="CMake" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/user-attachments/assets/2b2f39b9-50bb-4bf0-8bb2-5022ea0e61a5" alt="Nmap" title="Nmap" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/user-attachments/assets/d3243f26-5700-4c1d-9eea-2b6a276ce075" alt="Wireshark" title="Wireshark" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/user-attachments/assets/9a705a33-d749-4c23-bdb1-525a7667f2f0" alt="Burp Suite" title="Burp Suite" width="45px" height="45px"> &nbsp;
 
 <!-- My IDE -->
 <h3>💻 𝕀𝔻𝔼𝕤 𝕀 𝕦𝕤𝕖𝕕:</h3>
@@ -278,20 +278,3 @@
 <h4>📅 ℚ𝕦𝕠𝕥𝕖 𝕠𝕗 𝕥𝕙𝕖 𝔻𝕒𝕪:</h4>
 
 <a href="https://github.com/piyushsuthar/github-readme-quotes"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote" width="49.7%" height="auto"></a>
-
-<h3>🛰️ ℙ𝕝𝕒𝕥𝕗𝕠𝕣𝕞𝕤 𝕠𝕟 𝕨𝕙𝕚𝕔𝕙 𝕪𝕠𝕦 𝕔𝕒𝕟 𝕔𝕠𝕟𝕥𝕒𝕔𝕥 𝕞𝕖:</h3>
-
-<table>
-    <tr>
-        <td><img src="https://github.com/user-attachments/assets/061f476b-8484-4fb4-86a1-54a0c75b8d0e"/></td>
-        <td><img src="https://github.com/user-attachments/assets/8bf6609b-2036-46ff-bbe9-754cf8eeb5d9"/></td>
-        <td><img src="https://github.com/user-attachments/assets/081aa907-8476-4538-8adc-d3e0ab91741c"/></td>
-        <td><img src="https://github.com/user-attachments/assets/c42bac0d-214e-4ff7-8d8f-ab5de5cdd938"/></td>
-    </tr>
-    <tr>
-        <td><img src="https://github.com/user-attachments/assets/2c387e0b-087d-4fa7-83b0-aa90a3ab1d67"/></td>
-        <td><img src="https://github.com/user-attachments/assets/7f4bfdd1-7571-4a7b-af01-206138317446"/></td>
-        <td><img src="https://github.com/user-attachments/assets/7d8ca459-ec1e-4fe1-9302-c6f2ef903502"/></td>
-        <td><img src="https://github.com/user-attachments/assets/f0dd44dd-495e-4e5b-9bba-c89c69e1de74"/></td>
-    </tr>
-</table>
