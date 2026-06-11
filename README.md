@@ -250,7 +250,7 @@
 
 <h4>📊 𝕄𝕪 𝕃𝕖𝕖𝕥ℂ𝕠𝕕𝕖 𝕡𝕣𝕠𝕗𝕚𝕝𝕖:</h4>
 
-<a href="https://github.com/KnlnKS/leetcode-stats"><img src="https://leetcard.jacoblin.cool/GlitchFisher?ext=heatmap&theme=dark&border=0&radius=10" alt="LeetCode stats" width="49.7%" height="auto"></a>
+<a href="https://github.com/KnlnKS/leetcode-stats"><img src="https://leetcard.jacoblin.cool/BogdanKlimov?ext=heatmap&theme=dark&border=0&radius=10" alt="LeetCode stats" width="49.7%" height="auto"></a>
 
 <h4>🕙 𝕄𝕪 𝕊𝕥𝕖𝕡𝕚𝕜 𝕡𝕣𝕠𝕗𝕚𝕝𝕖:</h4>
 
@@ -258,7 +258,7 @@
 
 <h4>🚀 𝕄𝕪 𝕊𝕥𝕒𝕔𝕜𝕆𝕧𝕖𝕣𝕗𝕝𝕠𝕨 𝕡𝕣𝕠𝕗𝕚𝕝𝕖:</h4>
 
-<a href="https://stackoverflow.com/users/23562548/omid-nikrah"><img src="https://github-readme-stackoverflow.vercel.app/?userID=23562548&theme=dark" alt="StackOverflow stats" width="49.7%" height="auto"></a>
+<a href="https://stackoverflow.com/users/32825095/glitchfisher"><img src="https://github-readme-stackoverflow.vercel.app/?userID=32825095&theme=dark" alt="StackOverflow stats" width="49.7%" height="auto"></a>
 
 <h3>📁 𝕄𝕪 𝕣𝕖𝕡𝕠𝕤𝕚𝕥𝕠𝕣𝕚𝕖𝕤:</h3>
 
