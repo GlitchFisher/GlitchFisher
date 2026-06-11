@@ -176,22 +176,22 @@
 <!-- My IDE -->
 <h3>💻 𝕀𝔻𝔼𝕤 𝕀 𝕦𝕤𝕖𝕕:</h3>
 
-<a href="https://www.jetbrains.com/idea/"><img src="https://github.com/user-attachments/assets/32d2c47f-b2ad-4f4a-823d-49ecd5f577a7" alt="IntelliJ" title="IntelliJ" width="45px" height="45px"></a> &nbsp;
-<a href="https://www.jetbrains.com/pycharm/"><img src="https://github.com/user-attachments/assets/7ce75557-d3a3-48b9-b455-228484bc0f4a" alt="PyCharm" title="PyCharm" width="45px" height="45px"></a> &nbsp;
-<a href="https://www.jetbrains.com/clion/"><img src="https://github.com/user-attachments/assets/9c7712eb-3d75-4efc-bb3c-ffa24bdde22d" alt="CLion" title="CLion" width="45px" height="45px"></a> &nbsp;
-<a href="https://www.jetbrains.com/webstorm/"><img src="https://github.com/user-attachments/assets/24bc2785-f921-4988-9473-2908f6b67362" alt="WebStorm" title="WebStorm" width="45px" height="45px"></a> &nbsp;
-<a href="https://www.jetbrains.com/dataspell/"><img src="https://github.com/user-attachments/assets/3b469242-2513-48a6-b19f-ab18c075b31d" alt="DataSpell" title="DataSpell" width="45px" height="45px"></a> &nbsp;
-<a href="https://www.jetbrains.com/datagrip/"><img src="https://github.com/user-attachments/assets/6a5db3e8-942b-46f0-9d14-76e077080ba6" alt="DataGrip" title="DataGrip" width="45px" height="45px"></a> &nbsp;
-<a href="https://www.jetbrains.com/phpstorm/"><img src="https://github.com/user-attachments/assets/4db08b6a-661f-4091-81f8-378965d459b5" alt="PhpStorm" title="PhpStorm" width="45px" height="45px"></a> &nbsp;
-<a href="https://www.jetbrains.com/rider/"><img src="https://github.com/user-attachments/assets/f4660587-96b6-4446-8749-f9c43b32cacb" alt="Rider" title="Rider" width="45px" height="45px"></a> <br>
-<a href="https://jupyter.org/"><img src="https://github.com/user-attachments/assets/1065922b-537f-4e8b-b318-58a8f1f14d01" alt="Jupyter Notebook" title="Jupyter Notebook" width="45px" height="45px"></a> &nbsp;
-<a href="https://visualstudio.microsoft.com/ru/"><img src="https://github.com/user-attachments/assets/26f50ca4-23c8-49da-aa91-8158b10a8628" alt="Visual Studio" title="Visual Studio" width="45px" height="45px"></a> &nbsp;
-<a href="https://code.visualstudio.com/"><img src="https://github.com/user-attachments/assets/79e6784d-614a-4766-b35e-31b9553676c0" alt="Visual Studio Code" title="Visual Studio Code" width="45px" height="45px"></a> &nbsp;
-<a href="https://www.arduino.cc/en/software"><img src="https://github.com/KLimPALE/KLimPALE/assets/136115919/733955ac-cf67-434a-a783-8f03cced968d" alt="Arduino IDE" title="Arduino IDE" width="45px" height="45px"></a> &nbsp;
-<a href="https://atom-editor.cc/"><img src="https://github.com/KLimPALE/KLimPALE/assets/136115919/5348d0de-e255-49d1-9255-d3c2f7bd5825" alt="Atom" title="Atom" width="45px" height="45px"></a> &nbsp;
-<a href="https://anaconda.org/"><img src="https://github.com/KLimPALE/KLimPALE/assets/136115919/8e43793b-2712-4b9f-b554-97f070fd914e" alt="Anaconda" title="Anaconda" width="45px" height="45px"></a> &nbsp;
-<a href="https://developer.android.com/studio/install"><img src="https://github.com/KLimPALE/KLimPALE/assets/136115919/dd69c74e-8970-4a46-a08c-817aad489487" alt="Android Studio" title="Android Studio" width="45px" height="45px"></a> &nbsp;
-<a href="https://www.xilinx.com/support/download.html"><img src="https://github.com/KLimPALE/KLimPALE/assets/136115919/2b23ec83-e08a-4566-8baa-973276e0ac7f" alt="Vivado" title="Vivado" width="45px" height="45px"></a>
+<a href="https://www.jetbrains.com/idea"><img src="https://github.com/user-attachments/assets/de32b9bd-7852-420c-94cd-7d45441cae67" alt="IntelliJ" title="IntelliJ" width="45px" height="45px"></a> &nbsp;
+<a href="https://www.jetbrains.com/pycharm"><img src="https://github.com/user-attachments/assets/68e6b607-b85f-4b7a-ae4b-b81172decb9b" alt="PyCharm" title="PyCharm" width="45px" height="45px"></a> &nbsp;
+<a href="https://www.jetbrains.com/clion"><img src="https://github.com/user-attachments/assets/7ee3e0e6-3f1a-4711-86ff-bd5cf36a2d05" alt="CLion" title="CLion" width="45px" height="45px"></a> &nbsp;
+<a href="https://www.jetbrains.com/webstorm"><img src="https://github.com/user-attachments/assets/3eff3520-12c6-478a-9693-4b39a2ab3f8a" alt="WebStorm" title="WebStorm" width="45px" height="45px"></a> &nbsp;
+<a href="https://www.jetbrains.com/dataspell"><img src="https://github.com/user-attachments/assets/e4b5e50c-1b69-40db-bc9a-fc2bf416129b" alt="DataSpell" title="DataSpell" width="45px" height="45px"></a> &nbsp;
+<a href="https://www.jetbrains.com/datagrip"><img src="https://github.com/user-attachments/assets/3742ae8d-0dec-4574-894d-85099fe3ab05" alt="DataGrip" title="DataGrip" width="45px" height="45px"></a> &nbsp;
+<a href="https://www.jetbrains.com/phpstorm"><img src="https://github.com/user-attachments/assets/86144045-cf00-4acf-8024-1e3e964dd706" alt="PhpStorm" title="PhpStorm" width="45px" height="45px"></a> &nbsp;
+<a href="https://www.jetbrains.com/rider"><img src="https://github.com/user-attachments/assets/7ad10389-bdf2-4a80-b298-9c5314242bd7" alt="Rider" title="Rider" width="45px" height="45px"></a> <br>
+<a href="https://jupyter.org"><img src="https://github.com/user-attachments/assets/5c1e2c84-8d6c-4b76-95c1-8bf97257e581" alt="Jupyter Notebook" title="Jupyter Notebook" width="45px" height="45px"></a> &nbsp;
+<a href="https://visualstudio.microsoft.com/ru"><img src="https://github.com/user-attachments/assets/f0ec1ed9-e46a-4e1d-909a-820717bf589b" alt="Visual Studio" title="Visual Studio" width="45px" height="45px"></a> &nbsp;
+<a href="https://code.visualstudio.com"><img src="https://github.com/user-attachments/assets/70955c00-f690-4dee-a5db-f85bc94adf12" alt="Visual Studio Code" title="Visual Studio Code" width="45px" height="45px"></a> &nbsp;
+<a href="https://www.arduino.cc/en/software"><img src="https://github.com/user-attachments/assets/cde5755b-efce-4878-b3e4-c45239599716" alt="Arduino IDE" title="Arduino IDE" width="45px" height="45px"></a> &nbsp;
+<a href="https://atom-editor.cc"><img src="https://github.com/user-attachments/assets/c2ca424a-cfa7-47d5-a58c-b3964a156371" alt="Atom" title="Atom" width="45px" height="45px"></a> &nbsp;
+<a href="https://anaconda.org"><img src="https://github.com/user-attachments/assets/af844111-8769-4430-9c95-cbb14cae0d8f" alt="Anaconda" title="Anaconda" width="45px" height="45px"></a> &nbsp;
+<a href="https://developer.android.com/studio/install"><img src="https://github.com/user-attachments/assets/2ade3a90-f111-4438-ae75-f89020d4ab54" alt="Android Studio" title="Android Studio" width="45px" height="45px"></a> &nbsp;
+<a href="https://www.xilinx.com/support/download.html"><img src="https://github.com/user-attachments/assets/5ba758e6-558e-459f-978a-6cc8a2f9e4fb" alt="Vivado" title="Vivado" width="45px" height="45px"></a>
 
 <h3>🛰️ 𝕄𝕪 𝕨𝕖𝕓 𝕓𝕣𝕠𝕨𝕤𝕖𝕣𝕤:</h3>
 
