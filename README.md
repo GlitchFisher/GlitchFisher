@@ -32,11 +32,6 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=GlitchFisher&theme=github-compact&hide_title=true&area=true">
 
-<!-- My repositories -->
-<div align="center">
-  <img alt="Solar system animation" src="https://raw.githubusercontent.com/GlitchFisher/GlitchFisher/output/solar_system.svg" width="100%" height="auto">
-</div>
-
 <!-- My contects -->
 <h3>📡 ℂ𝕠𝕟𝕥𝕒𝕔𝕥 𝕞𝕖:</h3>
 
@@ -67,9 +62,9 @@
 <!-- My achievements -->
 <h3>🏆 𝔾𝕚𝕥ℍ𝕦𝕓 𝕡𝕣𝕠𝕗𝕚𝕝𝕖 𝕥𝕣𝕠𝕡𝕙𝕪:</h3>
 
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=GlitchFisher&theme=tokyonight&column=-1&no-frame=true" alt="Achievements">
-</p>
+<div align="center">
+    <img alt="Achievements" src="https://raw.githubusercontent.com/GlitchFisher/GlitchFisher/output/trophies.svg" width="100%" height="auto">
+</div>
 
 <!-- My goals and interests -->
 <h3>📝 𝕄𝕪 𝕘𝕠𝕒𝕝𝕤 𝕒𝕟𝕕 𝕚𝕟𝕥𝕖𝕣𝕖𝕤𝕥𝕤:</h3>
