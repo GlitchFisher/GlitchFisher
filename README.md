@@ -18,10 +18,6 @@
     <img src="https://img.shields.io/github/forks/GlitchFisher/GlitchFisher?style=flat&logo=github" alt="Forks"/>
 </div>
 
-<div align="center">
-  <img alt="Metrics" src="https://raw.githubusercontent.com/GlitchFisher/GlitchFisher/output/metrics.svg" width="100%" height="auto">
-</div>
-
 <!-- My snake -->
 <div align="center">
     <picture>
@@ -67,7 +63,7 @@
 <h3>🏆 𝔾𝕚𝕥ℍ𝕦𝕓 𝕡𝕣𝕠𝕗𝕚𝕝𝕖 𝕥𝕣𝕠𝕡𝕙𝕪:</h3>
 
 <div align="center">
-    <img alt="Achievements" src="https://raw.githubusercontent.com/GlitchFisher/GlitchFisher/output/trophies.svg" width="100%" height="auto">
+    <img src="https://github-profile-trophy.vercel.app/?username=GlitchFisher&theme=dark" alt="Achievements" width="100%" height="auto">
 </div>
 
 <!-- My goals and interests -->
