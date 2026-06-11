@@ -21,9 +21,9 @@
 <!-- My snake -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GlitchFisher/GlitchFisher/output/github-snake-dark.svg?v=1">
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GlitchFisher/GlitchFisher/output/github-snake.svg?v=1">
-        <img alt="Generate Snake Animation" src="https://raw.githubusercontent.com/GlitchFisher/GlitchFisher/output/github-snake.svg" width="100%" height="auto">
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GlitchFisher/GlitchFisher/output/snake_dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GlitchFisher/GlitchFisher/output/snake_light.svg">
+        <img alt="Snake animation" src="https://raw.githubusercontent.com/GlitchFisher/GlitchFisher/output/snake.svg" width="100%" height="auto">
     </picture>
 </div>
 
@@ -31,6 +31,11 @@
 <h3>🧩 𝕄𝕪 𝕒𝕔𝕥𝕚𝕧𝕚𝕥𝕪:</h3>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=GlitchFisher&theme=github-compact&hide_title=true&area=true">
+
+<!-- My repositories -->
+<div align="center">
+  <img alt="Solar system animation" src="https://raw.githubusercontent.com/GlitchFisher/output/solar_system.svg" width="100%">
+</div>
 
 <!-- My contects -->
 <h3>📡 ℂ𝕠𝕟𝕥𝕒𝕔𝕥 𝕞𝕖:</h3>
