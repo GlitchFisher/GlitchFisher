@@ -27,11 +27,6 @@
     </picture>
 </div>
 
-<!-- My metrics -->
-<div align="center">
-    <img src="https://raw.githubusercontent.com/GlitchFisher/GlitchFisher/output/metrics.svg" width="100%" height="auto">
-</div>
-
 <!-- My activity -->
 <h3>🧩 𝕄𝕪 𝕒𝕔𝕥𝕚𝕧𝕚𝕥𝕪:</h3>
 
