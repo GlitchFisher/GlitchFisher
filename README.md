@@ -333,8 +333,8 @@
 
 <h3>📁 𝕄𝕪 𝕣𝕖𝕡𝕠𝕤𝕚𝕥𝕠𝕣𝕚𝕖𝕤:</h3>
 
-<a href="https://github.com/GlitchFisher/Education"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GlitchFisher&repo=Education&theme=dark&hide_border=true" alt="Education" width="49.7%" height="auto"></a>
-<a href="https://github.com/GlitchFisher/NSU"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GlitchFisher&repo=NSU&theme=dark&hide_border=true" alt="NSU" width="49.7%" height="auto"></a>
+<a href="https://github.com/GlitchFisher/EducationalMaterials"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GlitchFisher&repo=EducationalMaterials&theme=dark&hide_border=true" alt="EducationalMaterials" width="49.7%" height="auto"></a>
+<a href="https://github.com/GlitchFisher/PhysicsDepartment"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GlitchFisher&repo=PhysicsDepartment&theme=dark&hide_border=true" alt="PhysicsDepartment" width="49.7%" height="auto"></a>
 
 <h3>🖊️ 𝔸𝕓𝕠𝕦𝕥 𝕞𝕖:</h3>
 
